@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-referrer=https://https://en-vivo.live/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://en-vivo.live/?deviceId=gDSUA8C9Hfxzu-FpFIOGONgAIJqWmMh-4ARQDKnOdDqDJ8RJVlm9EA==
+#KODIPROP:inputstream.adaptive.license_key=1134-vos.dtvott.com/?deviceId=gDSUA8C9Hfxzu-FpFIOGONgAIJqWmMh-4ARQDKnOdDqDJ8RJVlm9EA==
 https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0"
 
 
