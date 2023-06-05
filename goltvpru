@@ -2,7 +2,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://dtvott-gr1_79c6779976-wvkkp
+#EXTVLCOPT:http-referrer=https://en-vivo.live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key="3303b4c6982f381ea9e309009fbb3f27","a7fd49808f890c2500bf2180aaf42307"
 https://api58.tvgratis.live/streams/1134/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -11,7 +11,7 @@ https://api58.tvgratis.live/streams/1134/manifest.mpd|User-Agent="Mozilla/5.0 (W
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://dtvott-gr1_79c6779976-wvkkp
+#EXTVLCOPT:http-referrer=https://en-vivo.live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3303b4c6982f381ea9e309009fbb3f27","a7fd49808f890c2500bf2180aaf42307"
 https://api58.tvgratis.live/streams/1134/manifest.mpd
@@ -20,7 +20,7 @@ https://api58.tvgratis.live/streams/1134/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://dtvott-gr1_79c6779976-wvkkp
+#EXTVLCOPT:http-referrer=https://en-vivo.live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dtvott-gr1_79c6779976-wvkkp/?deviceId=3303b4c6982f381ea9e309009fbb3f27","a7fd49808f890c2500bf2180aaf42307"
 https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
