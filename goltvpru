@@ -22,7 +22,7 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dtvott-gr1_79c6779976-wvkkp/?deviceId=3303b4c6982f381ea9e309009fbb3f27","a7fd49808f890c2500bf2180aaf42307"
 https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PmN7vlr.png", GOL TV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmN7vlr.png", GOL TV3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://en-vivo.live
@@ -31,7 +31,7 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PmN7vlr.png", GOL TV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmN7vlr.png", GOL TV4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://en-vivo.live
