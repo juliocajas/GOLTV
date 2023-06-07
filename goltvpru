@@ -80,7 +80,7 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-hd_m.png"  group-title="CINE Y SERIES",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-hd_m.png"  group-title="CINE Y SERIES",DISCOVERY SCIENCE HD5
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -89,7 +89,7 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-hd_m.png"  group-title="CINE Y SERIES",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-hd_m.png"  group-title="CINE Y SERIES",DISCOVERY SCIENCE HD4
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -98,7 +98,7 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-hd_m.png"  group-title="CINE Y SERIES",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-hd_m.png"  group-title="CINE Y SERIES",DISCOVERY SCIENCE HD3
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -107,7 +107,7 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-hd_m.png"  group-title="CINE Y SERIES",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-hd_m.png"  group-title="CINE Y SERIES",DISCOVERY SCIENCE HD2
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -115,12 +115,12 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-hd_m.png"  group-title="CINE Y SERIES",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="54" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-hd_m.png"  group-title="CINE Y SERIES",DISCOVERY SCIENCE HD1
 https://www.vtvcable.com/web/dash.php?url=aHR0cHM6Ly8xMTM0LXZvcy5kdHZvdHQuY29tL0RBU0gvbWFuaWZlc3QubXBk&k1=MzMwM2I0YzY5ODJmMzgxZWE5ZTMwOTAwOWZiYjNmMjc=&k2=YTdmZDQ5ODA4Zjg5MGMyNTAwYmYyMTgwYWFmNDIzMDc=&aut=false&lang=0
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" tvg-group="DEPORTES", GOLTV ECUADOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" tvg-group="DEPORTES", GOLTV ECUADOR1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/goltvec.json
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
@@ -128,7 +128,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" tvg-group="DEPORTES", GOLTV ECUADOR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khzsDTN/goltv.jpg" tvg-group="DEPORTES", GOLTV ECUADOR1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=ez6-Owr5saHM3fOR5s13u7KLuwpwqtn8mfXxLDug97sUAwVewS-lSw==
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
