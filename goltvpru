@@ -4,10 +4,6 @@
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E hhhd
 https://v3.playerlatino.live/stream/m3u8/474|user-agent=Lavf/57.71.001
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/1
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/474
@@ -35,10 +31,6 @@ https://v3.playerlatino.live/stream/m3u8/426
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento",AMC
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/183
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="España",AMC ES
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/715
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Perú",América
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
