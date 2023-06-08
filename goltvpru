@@ -1,5 +1,9 @@
 
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E hhhd
+https://v3.playerlatino.live/stream/m3u8/474|user-agent=Lavf/57.71.001
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/1
