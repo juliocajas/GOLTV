@@ -42,50 +42,49 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",GOL TV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com/
-#EXTVLCOPT:http-referrer=https://en-vivo.live/
+#EXTVLCOPT:http-referrer=https://www.vtvcable.com
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/11"
 #EXTVLCOPT--http-reconnect=true
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",GOL TV3
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1024px-DAZN_LaLiga_logo.svg.png",Dazn La Liga 🇪🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=C6jXrCpyu1nisJIqC5odD1uCf4wW16Ha4YWHB1WjEL5ZBNUbbV2W2Q==
-#EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com/
-#EXTVLCOPT:http-referrer=https://en-vivo.live/
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/11"
-#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1024px-DAZN_LaLiga_logo.svg.png",Dazn La Liga 🇪🇸
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.vtvcable.com/web/dash.php?url=aHR0cHM6Ly8xMTM0LXZvcy5kdHZvdHQuY29tL0RBU0gvbWFuaWZlc3QubXBk&k1=MzMwM2I0YzY5ODJmMzgxZWE5ZTMwOTAwOWZiYjNmMjc=&k2=YTdmZDQ5ODA4Zjg5MGMyNTAwYmYyMTgwYWFmNDIzMDc
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",GOL TV4
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1024px-DAZN_LaLiga_logo.svg.png",Dazn La Liga 🇪🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com/
-#EXTVLCOPT:http-referrer=https://en-vivo.live/
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/11"
-#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.vtvcable.com/web/dash.php?url=aHR0cHM6Ly8xMTM0LXZvcy5kdHZvdHQuY29tL0RBU0gvbWFuaWZlc3QubXBk&k1=MzMwM2I0YzY5ODJmMzgxZWE5ZTMwOTAwOWZiYjNmMjc=&k2=YTdmZDQ5ODA4Zjg5MGMyNTAwYmYyMTgwYWFmNDIzMDc
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",GOL TV4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://dtvott-gr1_79c6779976-tvqcx/
-#EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com/
-#EXTVLCOPT:http-referrer=https://en-vivo.live
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/11"
-#EXTVLCOPT--http-reconnect=true
-https://1134-vos.dtvott.com/DASH/manifest.mpd
+
+
+
+
+
+
+
+https://www.vtvcable.com/web/dash.php?url=aHR0cHM6Ly8xMTM0LXZvcy5kdHZvdHQuY29tL0RBU0gvbWFuaWZlc3QubXBk&k1=MzMwM2I0YzY5ODJmMzgxZWE5ZTMwOTAwOWZiYjNmMjc=&k2=YTdmZDQ5ODA4Zjg5MGMyNTAwYmYyMTgwYWFmNDIzMDc
+
+
+
 
 https://1134-vos.dtvott.com/DASH/stream
 C6jXrCpyu1nisJIqC5odD1uCf4wW16Ha4YWHB1WjEL5ZBNUbbV2W2Q==
