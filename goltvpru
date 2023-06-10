@@ -43,6 +43,8 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com/
 #EXTVLCOPT:http-referrer=https://en-vivo.live/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/11"
@@ -54,6 +56,8 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com/
 #EXTVLCOPT:http-referrer=https://en-vivo.live/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/11"
@@ -64,11 +68,58 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd?id=1134
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://en-vivo.live/dtvpl2.html?id=1134
 #EXTVLCOPT:http-referrer=https://en-vivo.live/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/11"
 #EXTVLCOPT--http-reconnect=true
 https://1134-vos.dtvott.com/DASH/manifest.mpd?id=1134
+
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",GOL TV1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com/
+#EXTVLCOPT:http-referrer=https://en-vivo.live/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/11"
+#EXTVLCOPT--http-reconnect=true
+https://1134-vos.dtvott.com/DASH/manifest.mpd
+
+
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",GOL TV3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com/
+#EXTVLCOPT:http-referrer=https://en-vivo.live/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/11"
+#EXTVLCOPT--http-reconnect=true
+https://1134-vos.dtvott.com/DASH/manifest.mpd?id=1134
+
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",GOL TV4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://en-vivo.live/dtvpl2.html?id=1134
+#EXTVLCOPT:http-referrer=https://en-vivo.live/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/11"
+#EXTVLCOPT--http-reconnect=true
+https://1134-vos.dtvott.com/DASH/manifest.mpd?id=1134
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8?ref=https://oromartv.com/
