@@ -1,22 +1,22 @@
 
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV00
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar T
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://stream.oromartv.com:8082/
-#EXTVLCOPT:http-referrer=https://oromartv.com/LILEBJC4-1G-IGSV;audit=1|MSSP0w2g4UEOcyU5ITZn4eH7dxgL2KhodgY6FaFSWIMuJJQuE6ltuq5gWbfZ3Uew4b11/WEfPWgkEa5N2k7U1SEEFOCDRIFY/fl9UxTBA2Leyn67Fk55GTLRtArlGROC5cmAxi7+9V108946LEp
+#KODIPROP:inputstream.adaptive.license_key=https://stream.oromartv.com:8082/?deviceId=ChAI8OGVpAYQ-aXmt6K60NIwEj0AP-N9VRmsl6fLWIwiBT2QAJ_cEHZVbFGgu_xVeq1286nqLFaWhWKcT9g7rO5cgGiVku93-qTP34k0kfPd
+#EXTVLCOPT:http-referrer=https://oromartv.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV1
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://oromartv.com/stream.oromartv.com:8082/
+#EXTVLCOPT:http-referrer=https://oromartv.com/?login=success
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV00
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://stream.oromartv.com:8082/
@@ -25,76 +25,11 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV00
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar T3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://oromartv.com/tv-en-vivo/stream.oromartv.com:8082/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV00
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=http://gmpg.org/xfn/11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar T777
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://optimized-by.rubiconproject.com/a/api/vast.xml?account_id=24386&site_id=473012&zone_id=2804598&size_id=203&p_aso.video.protocols=2,5,3,6,7,8,11,12&p_aso.video.maxduration=250&p_aso.video.mimes=%22application/javascript%22,%22video/3gpp%22,%22video/mp4%22,%22video/webm%22,%22video/x-flv%22&p_aso.video.playbackmethod=2&p_aso.video.api=2,7,8,9&rp_schain=1.0%2C1%21vidoomy.com%2C63607%2C1%2C17306294847013401769081766934%2C%2C&gdpr=&gdpr_consent=
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV00
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://oromartv.com/feed/atom/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV00
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://oromartv.com/xmlrpc.php/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV00
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://oromartv.com/comments/feed/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV00
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://oromartv.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Foromartv.com%2Ftv-en-vivo%2F&format=xml
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV00
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2936695879104392
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV00
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://cdn.fluidplayer.com/v3/current/fluidplayer.min.js
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV00
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://oromartv.com/redoromar/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
