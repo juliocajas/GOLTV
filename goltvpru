@@ -12,7 +12,7 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://oromartv.com/?login=success
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=ChAI8OGVpAYQ-aXmt6K60NIwEj0AP-N9VRmsl6fLWIwiBT2QAJ_cEHZVbFGgu_xVeq1286nqLFaWhWKcT9g7rO5cgGiVku93-qTP34k0kfPd
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 
