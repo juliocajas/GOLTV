@@ -1,6 +1,7 @@
 
 
 #EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV00
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://stream.oromartv.com:8082/
 #EXTVLCOPT:http-referrer=https://oromartv.com/
@@ -8,31 +9,39 @@
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV2
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV27
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTVLCOPT:http-referrer=https://oromartv.com
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV2
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV24
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTVLCOPT:http-referrer=https://oromartv.com/
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV2
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV22
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTVLCOPT:http-referrer=https://oromartv.com
 #EXTVLCOPT:http-referrer=https://oromartv.com/
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV3
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV4
 #EXTVLCOPT:http-referrer=https://stream.oromartv.com:8082/
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV5
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV41
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTVLCOPT:http-referrer=https://stream.oromartv.com:8082/
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTVLCOPT:http-referrer=oromartv.com
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV6
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV61
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTVLCOPT:http-referrer=oromartv.com/tv-en-vivo
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
