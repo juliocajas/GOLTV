@@ -28,8 +28,14 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar T3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://oromartv.com/tv-en-vivo/stream.oromartv.com:8082/
+#EXTVLCOPT:http-referrer=http://gmpg.org/xfn/11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar T9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=http://gmpg.org/xfn/11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
