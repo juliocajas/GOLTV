@@ -8,13 +8,24 @@
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV5
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV1
 #EXTVLCOPT:http-referrer=https://oromartv.com/
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV2
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV3
+#EXTVLCOPT:http-referrer=https://stream.oromartv.com:8082/
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-http://oromartv.com/?page_id=293
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV3
+#EXTVLCOPT:http-referrer=https://oromartv.com/?page_id=293/
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV3
+#EXTVLCOPT:http-referrer=https://oromartv.com/xmlrpc.php/
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 https://oromartv.com/xmlrpc.php
 
