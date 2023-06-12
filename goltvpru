@@ -29,6 +29,7 @@ http://b42750-p1-hc7-afvpzwog-t1157f5.2.cdn.telefonica.com/_42750/_-_eyJhbGciOiJ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://cdn.telefonica.com/
-http://b42750-p1-hc7-afvpzwog-t1157f5.2.cdn.telefonica.com/_42750/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUyT0RZd05EQXlNRE09In0.eyJpYXQiOjE2ODY1Mjk4MzUsInVpZCI6IjRmc193NlhRaU1BQlVOaDBwTXlRamVMOTJZY0FfTVhIa1d0YVprVDY2NzFHV1JfdlBqa3pZdXlnV1VsUnlrSDIifQ.2VGaADGwarAkwelOu7ctxXsg6kC8wA3bcLOk0Pa048Bu9G1GdH9TTjumIpBC3mTvSeUBGxr-o_z36KS4u_w-tg_-_/DASH/Oromar.mpd?tcdn-bitrate-filter=LiveL-M
+http://b42750-p1-hc7-afvpzwog-t1157f5.2.cdn.telefonica.com//DASH/Oromar.mpd?tcdn-bitrate-filter=LiveL-M
 
 #EXTVLCOPT:http-referrer=https://bgtv.site:
+_42750/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUyT0RZd05EQXlNRE09In0.eyJpYXQiOjE2ODY1Mjk4MzUsInVpZCI6IjRmc193NlhRaU1BQlVOaDBwTXlRamVMOTJZY0FfTVhIa1d0YVprVDY2NzFHV1JfdlBqa3pZdXlnV1VsUnlrSDIifQ.2VGaADGwarAkwelOu7ctxXsg6kC8wA3bcLOk0Pa048Bu9G1GdH9TTjumIpBC3mTvSeUBGxr-o_z36KS4u_w-tg_-_
