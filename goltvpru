@@ -13,7 +13,7 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-referrer=https://cdn.telefonica.com/
 #KODIPROP:inputstream.adaptive.license_key=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUyT0RZd05EQXlNRE09In0.eyJpYXQiOjE2ODY1Mjk4MzUsInVpZCI6IjRmc193NlhRaU1BQlVOaDBwTXlRamVMOTJZY0FfTVhIa1d0YVprVDY2NzFHV1JfdlBqa3pZdXlnV1VsUnlrSDIifQ.2VGaADGwarAkwelOu7ctxXsg6kC8wA3bcLOk0Pa048Bu9G1GdH9TTjumIpBC3mTvSeUBGxr-o_z36KS4u_w-tg
-http://b42750-p1-hc7-afvpzwog-t1157f5.2.cdn.telefonica.com//DASH/Oromar.mpd
+https://b42750-p1-hc7-afvpzwog-t1157f5.2.cdn.telefonica.com//DASH/Oromar.mpd
 
 #EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar movi5
 #EXTVLCOPT:http-user-agent="VisualOn OSMP+ Player(Linux;Android) 22.4.102_MPLAY/501/22.4.102"
@@ -22,7 +22,7 @@ http://b42750-p1-hc7-afvpzwog-t1157f5.2.cdn.telefonica.com//DASH/Oromar.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-referrer=https://cdn.telefonica.com/
 #KODIPROP:inputstream.adaptive.license_key=42750/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUyT0RZd05EQXlNRE09In0.eyJpYXQiOjE2ODY1Mjk4MzUsInVpZCI6IjRmc193NlhRaU1BQlVOaDBwTXlRamVMOTJZY0FfTVhIa1d0YVprVDY2NzFHV1JfdlBqa3pZdXlnV1VsUnlrSDIifQ.2VGaADGwarAkwelOu7ctxXsg6kC8wA3bcLOk0Pa048Bu9G1GdH9TTjumIpBC3mTvSeUBGxr-o_z36KS4u_w-tg
-http://b42750-p1-hc7-afvpzwog-t1157f5.2.cdn.telefonica.com//DASH/Oromar.mpd
+https://b42750-p1-hc7-afvpzwog-t1157f5.2.cdn.telefonica.com//DASH/Oromar.mpd
 
 
 ?tcdn-bitrate-filter=LiveL-M
