@@ -157,8 +157,6 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd?id=1134
 #EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",pa
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://dgo.flow.directv.personal.yurigoron.com/?deviceId=amyp7ahrL_VtYJ2pUQlKj-vCfHN4QkVldISf7f_vr0b_pVPPFsVyyQ==
-#KODIPROP:inputstream.adaptive.license_key=https://1182-vos.dtvott.com/?deviceId=0cc003ff0b674bbd9cde4103fe520914==
 #EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://1182-vos.dtvott.com/DASH/manifest.mpd
@@ -167,7 +165,6 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://dgo.flow.directv.personal.yurigoron.com/?deviceId=amyp7ahrL_VtYJ2pUQlKj-vCfHN4QkVldISf7f_vr0b_pVPPFsVyyQ==
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="HD" ,pa
@@ -177,7 +174,6 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_key=https://1182-vos.dtvott.com/?deviceId=amyp7ahrL_VtYJ2pUQlKj-vCfHN4QkVldISf7f_vr0b_pVPPFsVyyQ==
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="HD" ,pa
