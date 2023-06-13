@@ -1,9 +1,6 @@
 #EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://oromartv.com/
-#EXTVLCOPT:http-host=http://stream.oromartv.com:8082
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=Referer= http://stream.oromartv.com:8082                   
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -35,7 +32,8 @@ https://pixmmdlv.mmdlive.lldns.net:443/pixmmdlv/58f430b553a244299d94a917fc872f47
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://stream.plixitv.live/
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://oromartv.com/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
