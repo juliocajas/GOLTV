@@ -36,12 +36,12 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 group-title="HD" ,DIRECTV 2
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://directv.today/canales/dtv2b/
+#EXTINF:-1 group-title="HD" ,DIRECTV 999
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://directv.today/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yuv9HgePExX55m_5hUTBJQ","kid":"kP0CJSU6QsieNtS8WgB0mA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey=3303b4c6982f381ea9e309009fbb3f27"; "a7fd49808f890c2500bf2180aaf42307";
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -49,8 +49,6 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://nowtv.express.com.ar/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yuv9HgePExX55m_5hUTBJQ","kid":"kP0CJSU6QsieNtS8WgB0mA"}],"type":"temporary"}
 https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd
 
 
