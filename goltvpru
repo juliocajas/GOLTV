@@ -6,25 +6,13 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar movi5
-#EXTVLCOPT:http-user-agent="VisualOn OSMP+ Player(Linux;Android) 22.4.102_MPLAY/501/22.4.102"
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-referrer=https://cdn.telefonica.com/
-#KODIPROP:inputstream.adaptive.license_key=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUyT0RZd05EQXlNRE09In0.eyJpYXQiOjE2ODY1Mjk4MzUsInVpZCI6IjRmc193NlhRaU1BQlVOaDBwTXlRamVMOTJZY0FfTVhIa1d0YVprVDY2NzFHV1JfdlBqa3pZdXlnV1VsUnlrSDIifQ.2VGaADGwarAkwelOu7ctxXsg6kC8wA3bcLOk0Pa048Bu9G1GdH9TTjumIpBC3mTvSeUBGxr-o_z36KS4u_w-tg
-https://b42750-p1-hc7-afvpzwog-t1157f5.2.cdn.telefonica.com//DASH/Oromar.mpd
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar movi5
-#EXTVLCOPT:http-user-agent="VisualOn OSMP+ Player(Linux;Android) 22.4.102_MPLAY/501/22.4.102"
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-referrer=https://cdn.telefonica.com/
-#KODIPROP:inputstream.adaptive.license_key=42750/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUyT0RZd05EQXlNRE09In0.eyJpYXQiOjE2ODY1Mjk4MzUsInVpZCI6IjRmc193NlhRaU1BQlVOaDBwTXlRamVMOTJZY0FfTVhIa1d0YVprVDY2NzFHV1JfdlBqa3pZdXlnV1VsUnlrSDIifQ.2VGaADGwarAkwelOu7ctxXsg6kC8wA3bcLOk0Pa048Bu9G1GdH9TTjumIpBC3mTvSeUBGxr-o_z36KS4u_w-tg
-https://b42750-p1-hc7-afvpzwog-t1157f5.2.cdn.telefonica.com//DASH/Oromar.mpd
-
-
-?tcdn-bitrate-filter=LiveL-M
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-_42750/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUyT0RZd05EQXlNRE09In0.eyJpYXQiOjE2ODY1Mjk4MzUsInVpZCI6IjRmc193NlhRaU1BQlVOaDBwTXlRamVMOTJZY0FfTVhIa1d0YVprVDY2NzFHV1JfdlBqa3pZdXlnV1VsUnlrSDIifQ.2VGaADGwarAkwelOu7ctxXsg6kC8wA3bcLOk0Pa048Bu9G1GdH9TTjumIpBC3mTvSeUBGxr-o_z36KS4u_w-tg_-_
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key="3303b4c6982f381ea9e309009fbb3f27"; "a7fd49808f890c2500bf2180aaf42307";
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="HD" ,DIRECTV SPORTS 2
+https://1134-vos.dtvott.com/DASH/manifest.mpd
