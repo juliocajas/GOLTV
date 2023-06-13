@@ -157,8 +157,7 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd?id=1134
 #EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",pa
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://dgo.flow.directv.personal.yurigoron.com/
-#EXTVLCOPT:http-referrer=https://dgo.flow.directv.personal.yurigoron.com
+#EXTVLCOPT:http-referrer=https://https://sfntv.xyz/
 #EXTVLCOPT--http-reconnect=1182-vos.dtvott.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://1182-vos.dtvott.com/DASH/manifest.mpd
@@ -167,9 +166,8 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",pa
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://dgo.flow.directv.personal.yurigoron.com/
-#EXTVLCOPT:http-referrer=https://dgo.flow.directv.personal.yurigoron.com
-#EXTVLCOPT--http-reconnect=https://1182-vos.dtvott.com/
+#EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
+#EXTVLCOPT:http-referrer=https://https://sfntv.xyz/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
@@ -178,7 +176,7 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://dgo.flow.directv.personal.yurigoron.com/
-#EXTVLCOPT:http-referrer=https://dgo.flow.directv.personal.yurigoron.com
+#EXTVLCOPT:http-referrer=https://https://sfntv.xyz/
 #EXTVLCOPT--http-reconnect=https://1182-vos.dtvott.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://1182-vos.dtvott.com/DASH/manifest.mpd
