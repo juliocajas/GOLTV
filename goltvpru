@@ -165,7 +165,7 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=0cc003ff0b674bbd9cde4103fe520914
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://dgo.flow.directv.personal.yurigoron.com/
@@ -176,7 +176,7 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=0cc003ff0b674bbd9cde4103fe520914
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
