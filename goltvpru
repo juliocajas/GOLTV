@@ -159,7 +159,7 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd?id=1134
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://https://sfntv.xyz/
 #EXTVLCOPT--http-reconnect=1182-vos.dtvott.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -168,7 +168,7 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
 #EXTVLCOPT:http-referrer=https://https://sfntv.xyz/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 
@@ -178,7 +178,7 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT:http-referrer=https://dgo.flow.directv.personal.yurigoron.com/
 #EXTVLCOPT:http-referrer=https://https://sfntv.xyz/
 #EXTVLCOPT--http-reconnect=https://1182-vos.dtvott.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 
