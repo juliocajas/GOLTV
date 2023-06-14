@@ -1,60 +1,3 @@
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://oromartv.com/ab1d091b-ab16-430e-8171-c54169af0c0b                 
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)(X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://oromartv.com/                  
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 group-title="HD" ,DIRECTV 2
-#KODIPROP:inputstream.adaptive.stream_headers=https://directv.today/canales/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1134-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9a04f079-9840-4286-ab92-e65be0885f95","kid":"79f0049a-4098-8642-ab92-e65be0885f95"}],"type":"temporary"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 group-title="HD" ,DIRECTV 2
-#KODIPROP:inputstream.adaptive.stream_headers=https://directv.today/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1134-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1077efec-c0b2-4d02-ace3-3c1e52e2fb4b ","kid":" edef8ba9-79d6-4ace-a3c8-27dcd51d21ed "}],"type":"temporary"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 group-title="HD" ,DIRECTV 2
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://directv.today/canales/dtv2b/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1134-vos.dtvott.com
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=keyId =f239e769-efa3-4850-9c16-a903c6932efb
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 group-title="HD" ,DIRECTV 999
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://directv.today/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=:1134-vos.dtvott.com
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3303b4c6982f381ea9e309009fbb3f27","kid":"a7fd49808f890c2500bf2180aaf42307"}],"type":"temporary"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES", Fox Sports_Ec4
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://nowtv.express.com.ar/
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yuv9HgePExX55m_5hUTBJQ","kid":"kP0CJSU6QsieNtS8WgB0mA"}],"type":"temporary"}
-https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd
 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES", Fox Sports_Et
@@ -65,26 +8,39 @@ https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPO
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yuv9HgePExX55m_5hUTBJQ","kid":"kP0CJSU6QsieNtS8WgB0mA"}],"type":"temporary"}
 https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd
 
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png" tvg-group="DEPORTES", DIRECTV SPORTS EC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dtvec.json
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1060
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZNVks2/dtvec.png" tvg-group="DEPORTES", DIRECTV SPORTS EC1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "8itiY1oYufZ4UUzxjHf9Nw", "kid": "e9932SFxO/SS25Wvj5fSkQ" } ], "type": "temporary" }
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1060
-
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN CO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"An_E87YnURHAyLWuhJM-qA","kid":"JET38ZspNS620cf52PcdWQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=http://b0769aa3a5fd944d4e8b53fc0502c60a.cloudfront.net/
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1106
 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES", Fox Sport
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1106-vos.dtvott.com:443/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=Nw68-Yi-SrZiBRufe5nRi-g10lmyZTyL9mDmwmGIUHjwUOQ2jrxRAg==
+https://1106-vos.dtvott.com:443/DASH/manifest.mpd
 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES", Fox Sport
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1106-vos.dtvott.com:443/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://b0769aa3a5fd944d4e8b53fc0502c60a.cloudfront.net/
+https://1106-vos.dtvott.com:443/DASH/manifest.mpd
+
+
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" group-title="DEPORTES", Fox Sport
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=http://b0769aa3a5fd944d4e8b53fc0502c60a.cloudfront.net/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=Nw68-Yi-SrZiBRufe5nRi-g10lmyZTyL9mDmwmGIUHjwUOQ2jrxRAg==
+https://1106-vos.dtvott.com:443/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/07/gamatv-790x340.jpg" group-title="ECUADOR", Gama Tv
 https://pixmmdlv.mmdlive.lldns.net:443/pixmmdlv/58f430b553a244299d94a917fc872f47/chunklist_b2592000.m3u8
