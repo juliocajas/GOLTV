@@ -78,7 +78,11 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1060
 #KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "8itiY1oYufZ4UUzxjHf9Nw", "kid": "e9932SFxO/SS25Wvj5fSkQ" } ], "type": "temporary" }
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1060
 
-
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN CO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"An_E87YnURHAyLWuhJM-qA","kid":"JET38ZspNS620cf52PcdWQ"}],"type":"temporary"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1106
 
 
 
