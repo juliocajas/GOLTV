@@ -1,7 +1,6 @@
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones1
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9,7 +8,15 @@
 https://b45458.cdn.telefonica.com/live/disk1/Pasiones/DASH/Pasiones.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0cU91U/2w+dHcFE6QebwzA","kid":"4fAfVf7SQmWeas3qJnWvKQ"}],"type":"temporary"}
+https://b45458.cdn.telefonica.com/live/disk1/Pasiones/DASH/Pasiones.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -18,7 +25,7 @@ https://b45458.cdn.telefonica.com/live/disk1/Pasiones/DASH/Pasiones.mpd
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones3
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -28,7 +35,7 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones4
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -38,7 +45,7 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones5
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -47,7 +54,7 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones6
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -56,7 +63,7 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones7
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -67,7 +74,7 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
