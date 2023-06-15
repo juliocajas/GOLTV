@@ -11,7 +11,6 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key="org.w3.clearkey", "1077efecc0b24d02ace33c1e52e2fb4b"
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
@@ -19,7 +18,6 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=org.w3.clearkey", "1077efecc0b24d02ace33c1e52e2fb4b
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
