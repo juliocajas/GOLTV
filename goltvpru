@@ -1,126 +1,81 @@
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0cU91U/2w+dHcFE6QebwzA","kid":"4fAfVf7SQmWeas3qJnWvKQ"}],"type":"temporary"}
+https://b45458.cdn.telefonica.com/live/disk1/Pasiones/DASH/Pasiones.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0cU91U/2w+dHcFE6QebwzA","kid":"4fAfVf7SQmWeas3qJnWvKQ"}],"type":"temporary"}
+https://1182-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=GKqyJMl7rCVzmlXGSZJHl6dyJ-PkbtAPcu_W2EAJc_Zm8hvYRCd6Wg==
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=GKqyJMl7rCVzmlXGSZJHl6dyJ-PkbtAPcu_W2EAJc_Zm8hvYRCd6Wg==
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=("org.w3.clearkey", "1077efecc0b24d02ace33c1e52e2fb4b")
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="1077efecc0b24d02ace33c1e52e2fb4b"
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1077efecc0b24d02ace33c1e52e2fb4b
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=GKqyJMl7rCVzmlXGSZJHl6dyJ-PkbtAPcu_W2EAJc_Zm8hvYRCd6Wg==
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.license_key=GKqyJMl7rCVzmlXGSZJHl6dyJ-PkbtAPcu_W2EAJc_Zm8hvYRCd6Wg==
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.license_key=("org.w3.clearkey", "1077efecc0b24d02ace33c1e52e2fb4b")
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.license_key="1077efecc0b24d02ace33c1e52e2fb4b"
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key="1077efecc0b24d02ace33c1e52e2fb4b"
+https://1182-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1077efecc0b24d02ace33c1e52e2fb4b
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=GKqyJMl7rCVzmlXGSZJHl6dyJ-PkbtAPcu_W2EAJc_Zm8hvYRCd6Wg==
-https://1182-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=GKqyJMl7rCVzmlXGSZJHl6dyJ-PkbtAPcu_W2EAJc_Zm8hvYRCd6Wg==
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=("org.w3.clearkey", "1077efecc0b24d02ace33c1e52e2fb4b")
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="1077efecc0b24d02ace33c1e52e2fb4b"
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1182-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1077efecc0b24d02ace33c1e52e2fb4b
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=GKqyJMl7rCVzmlXGSZJHl6dyJ-PkbtAPcu_W2EAJc_Zm8hvYRCd6Wg==
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_key=GKqyJMl7rCVzmlXGSZJHl6dyJ-PkbtAPcu_W2EAJc_Zm8hvYRCd6Wg==
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_key=("org.w3.clearkey", "1077efecc0b24d02ace33c1e52e2fb4b")
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_key="1077efecc0b24d02ace33c1e52e2fb4b"
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q6dH0q/UP3GHSC.png" tvg-group="CINE Y SERIES", PASIONES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1077efecc0b24d02ace33c1e52e2fb4b
 https://1182-vos.dtvott.com/DASH/manifest.mpd
+
+
 
 https://sfntv.xyz/ver/pasiones
 
