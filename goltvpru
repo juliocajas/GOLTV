@@ -49,8 +49,8 @@ https://1104-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_key="urn:uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b": "org.w3.clearkey",
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/?=urn:uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b
+#KODIPROP:inputstream.adaptive.license_key="": "org.w3.clearkey",
 https://1104-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -59,7 +59,7 @@ https://1104-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_key=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed": "com.widevine.alpha",
+#KODIPROP:inputstream.adaptive.license_key=edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
 https://1104-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -67,7 +67,7 @@ https://1104-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_key=  "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed": "com.widevine.alpha",
+#KODIPROP:inputstream.adaptive.license_key="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed": "com.widevine.alpha",
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -75,7 +75,7 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_key= "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.license_key=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -83,14 +83,14 @@ https://1182-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_key="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.license_key=urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2085449.jpg" group-title="ECUADOR", Pasiones0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key="edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+#KODIPROP:inputstream.adaptive.license_key=edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
