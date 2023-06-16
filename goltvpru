@@ -3,14 +3,17 @@
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 #EXTVLCOPT:http-referrer=https://channels1.futbolenvivo.xyz/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=329
+
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar TV3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+#EXTVLCOPT:http-referrer=https://channels1.futbolenvivo.xyz/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=329
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.udla.edu.ec/wp-content/uploads/2017/07/gamatv-790x340.jpg" group-title="ECUADOR", Gama Tv
-https://pixmmdlv.mmdlive.lldns.net:443/pixmmdlv/58f430b553a244299d94a917fc872f47/chunklist_b2592000.m3u8
 
 
 https://1134-vos.dtvott.com/DASH/manifest.mpd
