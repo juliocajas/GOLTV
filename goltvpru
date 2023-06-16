@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://sfntv.xyz/ver/pasiones/
-#KODIPROP:inputstream.adaptive.license_key= "urn:uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b": "org.w3.clearkey",
+#KODIPROP:inputstream.adaptive.license_key=1077efec-c0b2-4d02-ace3-3c1e52e2fb4b": "org.w3.clearkey",
 https://1104-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
