@@ -4,20 +4,17 @@
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8064/
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", k
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8064/
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX-M1
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd|license_key=https://gowv.izzigo.tv:8063
 
-
-license_key=
-|user-agent=R3dHard3.1XzY
 
