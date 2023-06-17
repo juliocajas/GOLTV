@@ -1,13 +1,13 @@
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX-M11dd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://de.tynt.com/
+#KODIPROP:inputstream.adaptive.license_key=https://www.vtvcable.com/web/dash.php
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://de.tynt.com/
+#KODIPROP:inputstream.adaptive.license_key=https://www.vtvcable.com
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX-M
@@ -19,19 +19,19 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX-M11
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://de.tynt.com
+#KODIPROP:inputstream.adaptive.license_key=https://www.vtvcable.com/
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX-M18
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv
+#KODIPROP:inputstream.adaptive.license_key=https://www.vertvcable.com/
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX-M1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv
+#KODIPROP:inputstream.adaptive.license_key=https://www.vertvcable.com/
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX-M1
