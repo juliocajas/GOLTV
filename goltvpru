@@ -2,25 +2,29 @@
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX-M
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv/?deviceId=sha512-yye/u0ehQsrVrfSd6biT17t39Rg9kNc+vENcCXZuMz2a+LWFGvXUnYuWUW6pbfYj1jcBb/C39UZw2ciQvwDDvg==
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX-M11
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw==
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX-M18
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv/?deviceId=sha512-OnkjbJ4TwPpgSmjXACCb5J4cJwi880VRe+vWpPDlr8M38/L3slN5uUAeOeWU2jN+4vN0gImCXFGdJmc0wO4Mig==
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX-M1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv/?deviceId=L21rdC84MTYvY2lkLzI4NTk1MzkzL3QvMg/kv
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
-
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/fsport.webp", FOX-M1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv/?deviceId=sha512-bUcJxlqkiGA3cmoYPuZaLRsyc5ChG9APG4ajom2AXKSlBtOmx4kLV3c8uv/6uSz43FMjI4Q2QI21+D223rT76w==
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
