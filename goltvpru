@@ -2,8 +2,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="242" tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png"  group-title="DEPORTES",TUDN-HD
-https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0"
-
+https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -11,14 +10,14 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #EXTVLCOPT:http-referrer=https://1134-vos.dtvott/
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="242" tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png"  group-title="DEPORTES",TUDN-HD
-https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0"
+https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://1134-vos.dtvott
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="242" tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png"  group-title="DEPORTES",TUDN-HD
-https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0"
+https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -26,22 +25,77 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #EXTVLCOPT:http-referrer=https://1134-vos.dtvott
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="242" tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png"  group-title="DEPORTES",TUDN-HD
-https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0"
+https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type={"keys": [{"kty": "oct","k": "uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b"}],"type": "temporary"}
-#EXTVLCOPT:http-referrer=https://1134-vos.dtvott
+#EXTVLCOPT:http-referrer=https://1134-vos.dtvott/?url=aHR0cHM6Ly8xMTM0LXZvcy5kdHZvdHQuY29tL0RBU0gvbWFuaWZlc3QubXBk&k1=MzMwM2I0YzY5ODJmMzgxZWE5ZTMwOTAwOWZiYjNmMjc=&k2=YTdmZDQ5ODA4Zjg5MGMyNTAwYmYyMTgwYWFmNDIzMDc=&aut=false&lang=0
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="242" tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png"  group-title="DEPORTES",TUDN-HD
-https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0"
+https://1134-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type={"keys": [{"kty": "oct","k": "uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b"}],"type": "temporary"}
+#EXTVLCOPT:http-referrer=https://www.vtvcable.com/?deviceId=aHR0cHM6Ly8xMTM0LXZvcy5kdHZvdHQuY29tL0RBU0gvbWFuaWZlc3QubXBk&k1=MzMwM2I0YzY5ODJmMzgxZWE5ZTMwOTAwOWZiYjNmMjc=&k2=YTdmZDQ5ODA4Zjg5MGMyNTAwYmYyMTgwYWFmNDIzMDc=&aut=false&lang=0
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="242" tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png"  group-title="DEPORTES",TUDN-HD
+https://1134-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="242" tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png"  group-title="DEPORTES",TUDN-HD
+https://1134-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type={"keys": [{"kty": "oct","k": "urn:uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b":"}],"type": "temporary"}
+#EXTVLCOPT:http-referrer=https://www.vtvcable.com/
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="242" tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png"  group-title="DEPORTES",TUDN-HD
+https://1134-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.vtvcable.com/
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="242" tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png"  group-title="DEPORTES",TUDN-HD
+https://1134-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type={"keys": [{"kty": "oct","k": "uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b"}],"type": "temporary"}
+#EXTVLCOPT:http-referrer=https://www.vtvcable.com/
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="242" tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png"  group-title="DEPORTES",TUDN-HD
+https://1134-vos.dtvott.com/DASH/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type={"keys": [{"kty": "oct","k": "uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b"}],"type": "temporary"}
+#EXTVLCOPT:http-referrer=https://www.vtvcable.com/
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="242" tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png"  group-title="DEPORTES",TUDN-HD
+https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 
 
 
 
 
+
+
+
+https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+
+
+?deviceId=aHR0cHM6Ly8xMTM0LXZvcy5kdHZvdHQuY29tL0RBU0gvbWFuaWZlc3QubXBk&k1=MzMwM2I0YzY5ODJmMzgxZWE5ZTMwOTAwOWZiYjNmMjc=&k2=YTdmZDQ5ODA4Zjg5MGMyNTAwYmYyMTgwYWFmNDIzMDc=&aut=false&lang=0
+
+?url=aHR0cHM6Ly8xMTM0LXZvcy5kdHZvdHQuY29tL0RBU0gvbWFuaWZlc3QubXBk&k1=MzMwM2I0YzY5ODJmMzgxZWE5ZTMwOTAwOWZiYjNmMjc=&k2=YTdmZDQ5ODA4Zjg5MGMyNTAwYmYyMTgwYWFmNDIzMDc=&aut=false&lang=0
 
 {"keys": [{"kty": "oct","k": "rcrQFSObMJn9QOYCDrV6GA","kid": "Q4TIUEa1Wvq9iQU3AtPTKA"}],"type": "temporary"}
 
