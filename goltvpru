@@ -14,13 +14,6 @@ https://live3-ott.izzigo.tv/out/u/dash/DISCOVERY-ID-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/
 https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/dash/default.mpd
 
-#EXTINF:-1 tvg logo="https://cdn2.sfntv.xyz/webp/logos/optimized/directv.webp" group-title="DEPORTES", DIRECTV SPORT 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct" group-title="Lista Sport","kid":"uz5L+hgh0r3CXJoJcOTjuA" group-title="Lista Sport","k":"ukBSyl62+P9rmNR9CYst7A"}],"type":"temporary"}
-https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
-
 #EXTINF:-1 tvg-id="AtreseriesInternacional.es", tvg-logo="https://i.imgur.com/dxzZqD8.png", Atres Series
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -40,13 +33,63 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI izxxx
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=Ly9saXZlNS1vdHQuaXp6aWdvLnR2L291dC91L2Rhc2gvSEJPLU1VTkRJLUhEL2RlZmF1bHQubXBk&k1=YmE0MDUyY2E1ZWI2ZjhmZjZiOThkNDdkMDk4YjJkZWM=&k2=YmIzZTRiZmExODIxZDJiZGMyNWM5YTA5NzBlNGUzYjg=
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "Ly9saXZlNS1vdHQuaXp6aWdvLnR2L291dC91L2Rhc2gvSEJPLU1VTkRJLUhEL2RlZmF1bHQubXBk&k1=YmE0MDUyY2E1ZWI2ZjhmZjZiOThkNDdkMDk4YjJkZWM=&k2=YmIzZTRiZmExODIxZDJiZGMyNWM5YTA5NzBlNGUzYjg"}]}
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI iz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI izxxx
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=Ly9saXZlNS1vdHQuaXp6aWdvLnR2L291dC91L2Rhc2gvSEJPLU1VTkRJLUhEL2RlZmF1bHQubXBk&k1=YmE0MDUyY2E1ZWI2ZjhmZjZiOThkNDdkMDk4YjJkZWM=&k2=YmIzZTRiZmExODIxZDJiZGMyNWM5YTA5NzBlNGUzYjg=
+#KODIPROP:inputstream.adaptive.license_key=https://www.vtvcable.com/web/dash.php?url=Ly9saXZlNS1vdHQuaXp6aWdvLnR2L291dC91L2Rhc2gvSEJPLU1VTkRJLUhEL2RlZmF1bHQubXBk&k1=YmE0MDUyY2E1ZWI2ZjhmZjZiOThkNDdkMDk4YjJkZWM=&k2=YmIzZTRiZmExODIxZDJiZGMyNWM5YTA5NzBlNGUzYjg
 https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI izxxx
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.vtvcable.com/web/
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI izxxx
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.vtvcable.com/web/dash/
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI izxxx
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv/out/
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI izxxx
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://live5-ott.izzigo.tv/
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI izxxx
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "eGDB2EujEeKZwiIACp8kUw"}]}
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI izxxx
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eGDB2EujEeKZwiIACp8kUw
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI izxxx
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cnzp941t8ngw
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI izxxx
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key="eGDB2EujEeKZwiIACp8kUw"
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI izxxx
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key="cnzp941t8ngw"
+https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+
+
+
 
 
 
