@@ -126,7 +126,13 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Golbiem
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3303b4c6982f381ea9e309009fbb3f27","kid":"a7fd49808f890c2500bf2180aaf42307"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=#KODIPROP:inputstream.adaptive.license_key={"urn:uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b":"org.w3.clearkey","urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed":"com.widevine.alpha","urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95":"com.microsoft.playready","urn:uuid:79f0049a-4098-8642-ab92-e65be0885f95":"com.microsoft.playready","urn:uuid:f239e769-efa3-4850-9c16-a903c6932efb":"com.adobe.primetime"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol T todosb
+#KODIPROP:inputstream.adaptive.license_key={"1077efec-c0b2-4d02-ace3-3c1e52e2fb4b","edef8ba9-79d6-4ace-a3c8-27dcd51d21ed":"9a04f079-9840-4286-ab92-e65be0885f95","79f0049a-4098-8642-ab92-e65be0885f95":"f239e769-efa3-4850-9c16-a903c6932efb"}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -151,10 +157,6 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
-#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
-#KODIPROP:inputstream.adaptive.license_type=com.adobe.primetime
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol T todos
-#KODIPROP:inputstream.adaptive.license_key={"urn:uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b":"org.w3.clearkey","urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed":"com.widevine.alpha","urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95":"com.microsoft.playready","urn:uuid:79f0049a-4098-8642-ab92-e65be0885f95":"com.microsoft.playready","urn:uuid:f239e769-efa3-4850-9c16-a903c6932efb":"com.adobe.primetime"}
+#KODIPROP:inputstream.adaptive.license_key={"1077efec-c0b2-4d02-ace3-3c1e52e2fb4b","edef8ba9-79d6-4ace-a3c8-27dcd51d21ed":"9a04f079-9840-4286-ab92-e65be0885f95","79f0049a-4098-8642-ab92-e65be0885f95":"f239e769-efa3-4850-9c16-a903c6932efb"}
 https://1134-vos.dtvott.com/DASH/manifest.mpd
