@@ -193,24 +193,37 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1227
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1185
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOOLTTVV
-#KODIPROP:inputstream.adaptive.license_key={"D7ARSjfK7JkGxddGlRSuAks315LidCnTGLarVdk_UIuHb_K8CKTPbg"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOOLTTVV
-#KODIPROP:inputstream.adaptive.license_key={"d61cfbf94ee5e82cf09f6655a1bfeac"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"7d9f586e49b23359',m:'hjtGyIfGqb9bxO0E1Ja81vmCG5WNzycXquKnktwEynk-1687215178-0-Af4CL8uohrsYwjtEuMjoPOAwkcWVg6fz5OPOmY2luDhe"}
+https://1182-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOOLTTVV
+#KODIPROP:inputstream.adaptive.license_key={"7d9f586e49b23359':'hjtGyIfGqb9bxO0E1Ja81vmCG5WNzycXquKnktwEynk-1687215178-0-Af4CL8uohrsYwjtEuMjoPOAwkcWVg6fz5OPOmY2luDhe"}
+https://1182-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOOLTTVV
+#KODIPROP:inputstream.adaptive.license_key={"7d9f586e49b23359':'hjtGyIfGqb9bxO0E1Ja81vmCG5WNzycXquKnktwEynk-1687215178-0-Af4CL8uohrsYwjtEuMjoPOAwkcWVg6fz5OPOmY2luDhe"}
+https://1182-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOOLTTVV
+#KODIPROP:inputstream.adaptive.license_key=https://dgo.flow.directv.personal.yurigoron.com/
+https://1182-vos.dtvott.com/DASH/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOOLTTVV
-#KODIPROP:inputstream.adaptive.license_key=http://d61cfbf94ee5e82cf09f6655a1bfeac.cloudfront.net//
-https://1134-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://d61cfbf94ee5e82cf09f6655a1bfeac.cloudfront.net/
+https://1182-vos.dtvott.com/DASH/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOOLTTVV
-#KODIPROP:inputstream.adaptive.license_key=http://d61cfbf94ee5e82cf09f6655a1bfeac.cloudfront.net//
-https://1134-vos.dtvott.com/DASH/manifest.mpd
+
 
