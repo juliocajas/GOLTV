@@ -94,23 +94,25 @@ https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Wi
 https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", qwa
+#EXTINF:-1 tvg logo="https://cdn2.sfntv.xyz/webp/logos/optimized/directv.webp" group-title="DEPORTES", DIRECTV SPORT 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://bestformula.one
-#EXTVLCOPT:http-referrer=https://bestformula.one/
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bestformula.one
-https://1134-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP :inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct" group-title="Lista Sport", "kid":"qwIKFxDWMBaN4haYN1pDnA" group-title="Lista Sport", "k ":"I1iYzbELDNujXqLOlPux+w"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Chrome/61.03163.100
+#EXTVLCOPT--http-reconnect=true
+https://1063-vos.dtvott .com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", qwa
+#EXTINF:-1 tvg logo="https://cdn2.sfntv.xyz/webp/logos/optimized/directv.webp" group-title="DEPORTES", DIRECTV SPORT 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://bestformula.one
-#EXTVLCOPT:http-referrer=https://bestformula.one/
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bestformula.one/
-https://1134-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP :inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct" group-title="Lista Sport", "kid":"qwIKFxDWMBaN4haYN1pDnA" group-title="Lista Sport", "k ":"I1iYzbELDNujXqLOlPux+w"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Chrome/61.03163.100
+#EXTVLCOPT--http-reconnect=true
+https://1063-vos.dtvott .com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", qwa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -120,7 +122,8 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bestformula.one/
-https://1134-vos.dtvott.com/DASH/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
+
 
 
 
