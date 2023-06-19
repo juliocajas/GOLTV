@@ -102,17 +102,17 @@ https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Wi
 https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES",GOL TV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES",GOLTVWQ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9a04f079-9840-4286-ab92-e65be0885f95":"edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"}
+#KODIPROP:inputstream.adaptive.license_key={"1077efecc0b24d02ace33c1e52e2fb4b":"edef8ba979d64acea3c827dcd51d21ed","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95","f239e769efa348509c16a903c6932efb"}
 https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES",GOL TV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3303b4c6982f381ea9e309009fbb3f27":"a7fd49808f890c2500bf2180aaf42307","9a04f079-9840-4286-ab92-e65be0885f95":"edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"}
+#KODIPROP:inputstream.adaptive.license_key={"1077efecc0b24d02ace33c1e52e2fb4b":"edef8ba979d64acea3c827dcd51d21ed","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95"}
 https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
