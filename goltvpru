@@ -86,4 +86,33 @@ https://1118-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"c85e78b23cff5a99913320c85649bb4d":"67f9e5acab608704392326687788754c","7a5c067a1d565353965d3ca0cbe9f501":"d46e9f54b7477580965adcae3c456186","350cfd7cbc785c48bd5b9ed8fc49c13c":"4546be5bfd3751687e114f3c305e009b"}
 https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", Clan TVE EspañaP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c85e78b23cff5a99913320c85649bb4d":"67f9e5acab608704392326687788754c"."7a5c067a1d565353965d3ca0cbe9f501":"d46e9f54b7477580965adcae3c456186"."350cfd7cbc785c48bd5b9ed8fc49c13c":"4546be5bfd3751687e114f3c305e009b"}
+https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES",GOL TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3303b4c6982f381ea9e309009fbb3f27":"a7fd49808f890c2500bf2180aaf42307"}
+https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES",GOL TV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9a04f079-9840-4286-ab92-e65be0885f95":"edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"}
+https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES",GOL TV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3303b4c6982f381ea9e309009fbb3f27":"a7fd49808f890c2500bf2180aaf42307","9a04f079-9840-4286-ab92-e65be0885f95":"edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"}
+https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
