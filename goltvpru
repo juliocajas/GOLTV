@@ -125,15 +125,29 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol Tv
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p_1JgI-JDCUAvyGAqvQjBw","kid":"MwO0xpgvOB6p4wkAn7s_Jw"}],"type":"temporary"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol Tv22
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3303b4c6982f381ea9e309009fbb3f27","kid":"a7fd49808f890c2500bf2180aaf42307"}],"type":"temporary"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol Tv22
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p_1JgI-JDCUAvyGAqvQjBw","kid":"MwO0xpgvOB6p4wkAn7s_Jw"}],"type":"temporary"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol Tv2
+#KODIPROP:inputstream.adaptive.license_key={"3303b4c6982f381ea9e309009fbb3f27","a7fd49808f890c2500bf2180aaf42307"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol Tv24
+#KODIPROP:inputstream.adaptive.license_key={"3303b4c6982f381ea9e309009fbb3f27"."a7fd49808f890c2500bf2180aaf42307"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol Tv27
+#KODIPROP:inputstream.adaptive.license_key={"3303b4c6982f381ea9e309009fbb3f27":"a7fd49808f890c2500bf2180aaf42307"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol Tv26
+#KODIPROP:inputstream.adaptive.license_key={"3303b4c6982f381ea9e309009fbb3f27";"a7fd49808f890c2500bf2180aaf42307"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
 
 
 
