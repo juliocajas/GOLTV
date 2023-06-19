@@ -94,72 +94,33 @@ https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Wi
 https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES",GOLTVWQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", qwa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1077efecc0b24d02ace33c1e52e2fb4b":"edef8ba979d64acea3c827dcd51d21ed","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95","f239e769efa348509c16a903c6932efb"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES",GOL TV2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://pulseadnetwork.com/ad/visit.php?al=1134
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1077efecc0b24d02ace33c1e52e2fb4b":"edef8ba979d64acea3c827dcd51d21ed","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES",GOL TV2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://pulseadnetwork.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1077efecc0b24d02ace33c1e52e2fb4b":"edef8ba979d64acea3c827dcd51d21ed","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES",GOL TV2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://bestformula.one/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1077efecc0b24d02ace33c1e52e2fb4b":"edef8ba979d64acea3c827dcd51d21ed","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES",GOL TV2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://dtvott-gr1_79c6779976-9lwdk/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1077efecc0b24d02ace33c1e52e2fb4b":"edef8ba979d64acea3c827dcd51d21ed","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", eeeee
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://bestformula.one
 #EXTVLCOPT:http-referrer=https://bestformula.one/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c85e78b23cff5a99913320c85649bb4d":"67f9e5acab608704392326687788754c","7a5c067a1d565353965d3ca0cbe9f501":"d46e9f54b7477580965adcae3c456186","350cfd7cbc785c48bd5b9ed8fc49c13c":"4546be5bfd3751687e114f3c305e009b"}
-https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", eeeee
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://bestformula.one/
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1077efecc0b24d02ace33c1e52e2fb4b":"edef8ba979d64acea3c827dcd51d21ed","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95"}
-https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bestformula.one
+https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", qwa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://bestformula.one
 #EXTVLCOPT:http-referrer=https://bestformula.one/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1077efecc0b24d02ace33c1e52e2fb4b":"edef8ba979d64acea3c827dcd51d21ed","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95","9a04f07998404286ab92e65be0885f95":"9a04f07998404286ab92e65be0885f95"}
-https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bestformula.one/
+https://1134-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", qwa
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-referrer=https://bestformula.one
+#EXTVLCOPT:http-referrer=https://bestformula.one/
+#EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com/
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bestformula.one/
+https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 
 
