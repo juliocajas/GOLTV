@@ -1,262 +1,30 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge"
-#EXTINF:-1 tvg-id="509dtv.ar", tvg-logo="https://i.imgur.com/2HOweFW.png" group-title="PREMIUM", Cinemax3
+#EXTINF:-1 tvg-id="StarChannelSouth.us", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7b05e3667903700af35356dd04dc541:62b59f0618484452a7e735d1faf3e3a4
-https://1046-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"token": "0cc003ff0b674bbd9cde4103fe520914"}
+https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 
-#EXTINF:-1 tvg-id="509dtv.ar", tvg-logo="https://i.imgur.com/2HOweFW.png" group-title="PREMIUM", Cinemax2
+
+#EXTINF:-1 tvg-id="StarChannelSouth.us", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a7b05e3667903700af35356dd04dc541":"62b59f0618484452a7e735d1faf3e3a4"}
-https://1046-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"token": "0cc003ff0b674bbd9cde4103fe520914"}
+https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="509dtv.ar", tvg-logo="https://i.imgur.com/2HOweFW.png" group-title="PREMIUM", Cinemax1
+#EXTINF:-1 tvg-id="StarChannelSouth.us", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a7b05e3667903700af35356dd04dc541:62b59f0618484452a7e735d1faf3e3a4"}
-https://1046-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"0cc003ff0b674bbd9cde4103fe520914"}
+https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge"
-#EXTINF:-1 tvg-id="509dtv.ar", tvg-logo="https://i.imgur.com/2HOweFW.png" group-title="PREMIUM", Cinemax3
+
+#EXTINF:-1 tvg-id="StarChannelSouth.us", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7b05e3667903700af35356dd04dc541:62b59f0618484452a7e735d1faf3e3a4
-https://1046-vos.dtvott.com/dash/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="509dtv.ar", tvg-logo="https://i.imgur.com/2HOweFW.png" group-title="PREMIUM", Cinemax2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a7b05e3667903700af35356dd04dc541":"62b59f0618484452a7e735d1faf3e3a4"}
-https://1046-vos.dtvott.com/dash/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="509dtv.ar", tvg-logo="https://i.imgur.com/2HOweFW.png" group-title="PREMIUM", Cinemax11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a7b05e3667903700af35356dd04dc541:62b59f0618484452a7e735d1faf3e3a4"}
-https://1046-vos.dtvott.com/dash/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", GOL TV MOD
-#KODIPROP:inputstream.adaptive.license_key={"3303b4c6982f381ea9e309009fbb3f27":"a7fd49808f890c2500bf2180aaf42307"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTINF:-1 tvg-id="97" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png"  group-title="IZZI GO",HBO FAMILY HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="AtreseriesInternacional.es", tvg-logo="https://i.imgur.com/dxzZqD8.png", Atres Series
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" tvg-group="CINE Y SERIES", HBO MUNDI izi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "uz5L+hgh0r3CXJoJcOTjuA","kid": "ukBSyl62+P9rmNR9CYst7A"}],"type": "temporary"}
-https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
-
-#EXTINF:-1 tvg logo="https://cdn2.sfntv.xyz/webp/logos/optimized/directv.webp" group-title="DEPORTES", DIRECTV SPORT 39
-#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k":"uz5L+hgh0r3CXJoJcOTjuA","kid":"ukBSyl62+P9rmNR9CYst7A"}]}
-https://live5-ott.izzigo.tv/out/u/dash/HBO-MUNDI-HD/default.mpd
-
-
-#EXTINF:-1 group-title="HD" tvg-logo="https://futboltvhd.live/img/logo-canal/ESPN_3.webp" ,ESPN 3 AS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f91c485f605b337cab75d446604d5dfc:933c006497039ce8b345d53a1131d8c4
-https://1103-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-id="1623dtv.ar", tvg-logo="https://i.imgur.com/Nwk5HID.png", group-title="DEPORTES", ESPN 3 🇦🇷
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kzwAZJcDnOizRdU6ETHYxA","kid":"+RxIX2BbM3yrddRGYE1d/A"}],"type":"temporary"}
-https://1103-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="1175dtv.cl", tvg-logo="https://i.imgur.com/4zbQAOF.png" group-title="DEPORTES", ESPN Chile 🇨🇱
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ace717307c13f5cb12d79591a5a949d:540429e25dfa54c2aa25651158966c05
-https://1105-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=591cdbc97034330b849614a6efbfdfd4:d664407707d260f93908121d84df4eba
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" group-title="DEPORTES", ESPN 🇲🇽 (DTV) 
-https://1108-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://futboltvhd.live/img/logo-canal/Fox-Sports.png", Fox Sports 🇦🇷
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76be81041e7133a38457f097d2b0041c:8ced846c9effd56d7e2a9276224bb3c5
-https://1118-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", Clan TVE España
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c85e78b23cff5a99913320c85649bb4d":"67f9e5acab608704392326687788754c","7a5c067a1d565353965d3ca0cbe9f501":"d46e9f54b7477580965adcae3c456186","350cfd7cbc785c48bd5b9ed8fc49c13c":"4546be5bfd3751687e114f3c305e009b"}
-https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", Clan TVE EspañaP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c85e78b23cff5a99913320c85649bb4d":"67f9e5acab608704392326687788754c","7a5c067a1d565353965d3ca0cbe9f501":"d46e9f54b7477580965adcae3c456186","350cfd7cbc785c48bd5b9ed8fc49c13c":"4546be5bfd3751687e114f3c305e009b"}
-https://tvup-live.secure.footprint.net/clan/clan.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", qwa
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://bestformula.one
-#EXTVLCOPT:http-referrer=https://bestformula.one/
-#EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUecsva.png" group-title="INFANTILES", qwa
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-referrer=https://bestformula.one
-#EXTVLCOPT:http-referrer=https://bestformula.one/
-#EXTVLCOPT:http-referrer=https://1134-vos.dtvott.com/
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://dtvott-cbc.akamaized.net:443/
-https://1134-vos.dtvott.com/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", www
-#KODIPROP:inputstream.adaptive.license_key={"06997340922035bf8bbdb05ccad59aac":"e54951d9df22a73a8ab2d951c67ca260"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", ty sports
-#KODIPROP:inputstream.adaptive.license_key={"4d45b79d4487343589058ab49ddf8cf0":"aa7f95f71a3cfe40aa59904f9285af72"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1240
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",fox sports
-#KODIPROP:inputstream.adaptive.license_key={"76be81041e7133a38457f097d2b0041c":"8ced846c9effd56d7e2a9276224bb3c5"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1118
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",espn 3
-#KODIPROP:inputstream.adaptive.license_key={"f91c485f605b337cab75d446604d5dfc":"933c006497039ce8b345d53a1131d8c4"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1103
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",wwplus
-#KODIPROP:inputstream.adaptive.license_key={"0b23302438ff324dab2eeaca5ea9f554":"cd59eb711c8ac4ee0bf0c66f3e967a9c"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1246
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",espin 
-#KODIPROP:inputstream.adaptive.license_key={"bfe0b4ea79d63f3ca8370f9465ad853a":"6bf0a6db3672e1d1ebe22e494156ff5d"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1098
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",sin nombre
-#KODIPROP:inputstream.adaptive.license_key={"dfd472261dcf350594173e8acf5f97ad":"313d66dcc3202f8cb471c51b864d3917"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1187
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",espn3
-#KODIPROP:inputstream.adaptive.license_key={"f91c485f605b337cab75d446604d5dfc":"933c006497039ce8b345d53a1131d8c4"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1103
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",13
-#KODIPROP:inputstream.adaptive.license_key={"d0141f7c4c5b3b9fb023c229aa78f66e":"fbb6d022cde627f2ebc3891735af5dd5"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1030
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",esm
-#KODIPROP:inputstream.adaptive.license_key={"591cdbc97034330b849614a6efbfdfd4":"d664407707d260f93908121d84df4eba"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1108
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",esm
-#KODIPROP:inputstream.adaptive.license_key={"2bdcf12a2d68305db6c5a1521efd11c7":"ff22ccb2e8b75305f634ec90d18dc01c"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1227
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",rcn colombia
-#KODIPROP:inputstream.adaptive.license_key={"fad9eaf7a980300686af7809c0377a00":"0d270d4c1ef2a319aeaf2f424e9b1442"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1185
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOOLTTVV
-#KODIPROP:inputstream.adaptive.license_key={"7d9f586e49b23359',m:'hjtGyIfGqb9bxO0E1Ja81vmCG5WNzycXquKnktwEynk-1687215178-0-Af4CL8uohrsYwjtEuMjoPOAwkcWVg6fz5OPOmY2luDhe"}
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOOLTTVV
-#KODIPROP:inputstream.adaptive.license_key={"7d9f586e49b23359':'hjtGyIfGqb9bxO0E1Ja81vmCG5WNzycXquKnktwEynk-1687215178-0-Af4CL8uohrsYwjtEuMjoPOAwkcWVg6fz5OPOmY2luDhe"}
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOOLTTVV
-#KODIPROP:inputstream.adaptive.license_key={"7d9f586e49b23359':'hjtGyIfGqb9bxO0E1Ja81vmCG5WNzycXquKnktwEynk-1687215178-0-Af4CL8uohrsYwjtEuMjoPOAwkcWVg6fz5OPOmY2luDhe"}
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOOLTTVV
-#KODIPROP:inputstream.adaptive.license_key=https://dgo.flow.directv.personal.yurigoron.com/
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://1182-vos.dtvott.com/
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOOLTTVV
-#KODIPROP:inputstream.adaptive.license_key=https://d61cfbf94ee5e82cf09f6655a1bfeac.cloudfront.net/
-https://1182-vos.dtvott.com/DASH/manifest.mpd
-
-
+#KODIPROP:inputstream.adaptive.license_key=0cc003ff0b674bbd9cde4103fe520914
+https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
