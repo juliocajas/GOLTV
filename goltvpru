@@ -10,7 +10,7 @@ https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"token": "ZXlJd0lqb2lSVU1pTENJeElqb2lSVU10VUNJc0lqSWlPbVpoYkhObExDSXpJam9pWjI5dloyeGxMbU52YlM1bFl5SXNJalFpT2lJaUxDSTFJanAwY25WbExDSTJJanBtWVd4elpTd2lOeUk2SWlKOQ=="}
+#KODIPROP:inputstream.adaptive.license_key={"token": "nnKGXHmyL_yMQjswPHV3=="}
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 
 
@@ -18,14 +18,14 @@ https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ZXlJd0lqb2lSVU1pTENJeElqb2lSVU10VUNJc0lqSWlPbVpoYkhObExDSXpJam9pWjI5dloyeGxMbU52YlM1bFl5SXNJalFpT2lJaUxDSTFJanAwY25WbExDSTJJanBtWVd4elpTd2lOeUk2SWlKOQ=="}
+#KODIPROP:inputstream.adaptive.license_key={"nnKGXHmyL_yMQjswPHV3"}
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="StarChannelSouth.us", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ZXlJd0lqb2lSVU1pTENJeElqb2lSVU10VUNJc0lqSWlPbVpoYkhObExDSXpJam9pWjI5dloyeGxMbU52YlM1bFl5SXNJalFpT2lJaUxDSTFJanAwY25WbExDSTJJanBtWVd4elpTd2lOeUk2SWlKOQ==
+#KODIPROP:inputstream.adaptive.license_key=nnKGXHmyL_yMQjswPHV3
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
@@ -33,6 +33,6 @@ https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eyIwIjoiRUMiLCIxIjoiRUMtUCIsIjIiOmZhbHNlLCIzIjoiZ29vZ2xlLmNvbS5lYyIsIjQiOiIiLCI1Ijp0cnVlLCI2IjpmYWxzZSwiNyI6IiJ9
+#KODIPROP:inputstream.adaptive.license_key=nnKGXHmyL_yMQjswPHV3
 https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
