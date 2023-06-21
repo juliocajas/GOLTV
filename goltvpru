@@ -1,44 +1,67 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4p1g4a4vrvvn1ge"
 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 group-title="HD" ,DIRECTV 2
-#KODIPROP:inputstream.adaptive.stream_headers=https://directv.today/canales/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1134-vos.dtvott.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9a04f079-9840-4286-ab92-e65be0885f95","kid":"79f0049a-4098-8642-ab92-e65be0885f95"}],"type":"temporary"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="200" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84035_dark_360w_270h.png"  group-title="CINE Y SERIES",NAT GEO WILD HD
+https://live-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 group-title="HD" ,DIRECTV 2
-#KODIPROP:inputstream.adaptive.stream_headers=https://directv.today/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1134-vos.dtvott.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1077efec-c0b2-4d02-ace3-3c1e52e2fb4b ","kid":" edef8ba9-79d6-4ace-a3c8-27dcd51d21ed "}],"type":"temporary"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="200" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84035_dark_360w_270h.png"  group-title="CINE Y SERIES",NAT GEO WILD HD
+https://live1-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 group-title="HD" ,DIRECTV 2
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://directv.today/canales/dtv2b/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://1134-vos.dtvott.com
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=keyId =f239e769-efa3-4850-9c16-a903c6932efb
-https://1134-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="200" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84035_dark_360w_270h.png"  group-title="CINE Y SERIES",NAT GEO WILD HD
+https://live2-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 group-title="HD" ,DIRECTV 999
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://directv.today/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=1182-vos.dtvott.com
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3303b4c6982f381ea9e309009fbb3f27","kid":"a7fd49808f890c2500bf2180aaf42307"}],"type":"temporary"}
-https://1134-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="200" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84035_dark_360w_270h.png"  group-title="CINE Y SERIES",NAT GEO WILD HD
+https://live3-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="200" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84035_dark_360w_270h.png"  group-title="CINE Y SERIES",NAT GEO WILD HD
+https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="200" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84035_dark_360w_270h.png"  group-title="CINE Y SERIES",NAT GEO WILD HD
+https://live5-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="200" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84035_dark_360w_270h.png"  group-title="CINE Y SERIES",NAT GEO WILD HD
+https://live6-ott.izzigo.tv/out/u/dash/NAT-GEO-WILD-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
