@@ -1,38 +1,16 @@
-#EXTINF:-1 tvg-id="StarChannelSouth.us", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9DM9-w5wjsmGW5pv8qjgaA","kid":"fDjZMQ08W0ajejm77G3Wig"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOL TV EC
+#KODIPROP:inputstream.adaptive.license_key={"IHsiZjA0MmJkMGRjYjRkM2Y1OWI1MWE1NzBhZDQ2YmUxYmMiOiAiYWI1MWZlYWE3MjJiNDlmZTk1YjllOTU4YmNjZDU3YjQifQ=="}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
 
-
-#EXTINF:-1 tvg-id="StarChannelSouth.us", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"token": "nnKGXHmyL_yMQjswPHV3=="}
-https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOL TV EC
+#KODIPROP:inputstream.adaptive.license_key={"IHsiZjA0MmJkMGRjYjRkM2Y1OWI1MWE1NzBhZDQ2YmUxYmMiOiAiYWI1MWZlYWE3MjJiNDlmZTk1YjllOTU4YmNjZDU3YjQifQ"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
 
 
-#EXTINF:-1 tvg-id="StarChannelSouth.us", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"nnKGXHmyL_yMQjswPHV3"}
-https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 tvg-id="StarChannelSouth.us", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=nnKGXHmyL_yMQjswPHV3
-https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-
-#EXTINF:-1 tvg-id="StarChannelSouth.us", tvg-logo="https://i.imgur.com/LFkv28e.png", Star Channel2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=nnKGXHmyL_yMQjswPHV3
-https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOL TV EC
+#KODIPROP:inputstream.adaptive.license_key=IHsiZjA0MmJkMGRjYjRkM2Y1OWI1MWE1NzBhZDQ2YmUxYmMiOiAiYWI1MWZlYWE3MjJiNDlmZTk1YjllOTU4YmNjZDU3YjQifQ
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
