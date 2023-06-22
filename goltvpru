@@ -1,64 +1,42 @@
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khJQLWh/7-Pj-FLw-ZP-400x400.jpg" tvg-group="DEPORTES", AFIZZIONADOS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1OsF8mC8Xc5l_w-HVA-wKQ","kid":"43K82z9RTqqSdGwMCgR6ew"}]}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY SCIENCE OP2
-https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/https://nowtv.express.com.ar"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"w5FQuiaYaoowvYjJYO4KmA","kid":"5W18Htc6AEw+vlaY9sb2sQ"}]}
+https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1OsF8mC8Xc5l_w-HVA-wKQ","kid":"43K82z9RTqqSdGwMCgR6ew"}]}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY SCIENCE OP2
-https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1OsF8mC8Xc5l_w-HVA-wKQ","kid":"43K82z9RTqqSdGwMCgR6ew"}]}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY SCIENCE OP2
-https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" tvg-group="CINE Y SERIES", A3 SERIES1
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KycSshT/Fs-Tx-Cm-RL-400x400.jpg" tvg-group="MEXICO", BITME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}]}
-https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" tvg-group="CINE Y SERIES", A3 SERIES2
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"04W4et5EQdIMXK7iqOQdpw","kid":"PnsoHBHw/xw/ftLQLQh5wQ"}]}
+https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X5szkx2/boomerang.png" tvg-group="INFANTILES", BOOMERANG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" tvg-group="CINE Y SERIES", A3 SERIES3
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hwYUadrZZ1cHhwSgPuPGfw","kid":"bYQiIvFxWlmtJGI8IXRTRA"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/bobesponja.png" tvg-group="24/7", Bob Esponja 24/7
+https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=518|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vj3Yr5C/c412c0a3e6ed0dc6cbedbfaf4bfd3921.jpg" tvg-group="COLOMBIA", CARACOL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}]}
-https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" tvg-group="CINE Y SERIES", A3 SERIES4
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XnP7CDWNtjTfuRnYU87Ebw","kid":"WQ6raDPUNf-UzJpa-TpDGQ"}]}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1035|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ng9CcxY/cn.png" tvg-group="INFANTILES", CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/xml+dash
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ok1h5oorxLGHm1JKKZTWVA","kid":"eM55icAMUHmcp9_ikbq9Wg"}]}
+https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3zKJTqt/syfy.jpg" tvg-group="CINE Y SERIES", SYFY4
 #KODIPROP:inputstream=inputstream.ffmpegdirect
