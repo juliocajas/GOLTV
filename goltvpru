@@ -10,11 +10,21 @@ https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cTzSjgb/ae.png" tvg-group="CIENCIA Y CULTURA", A&E OP2
 https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cTzSjgb/ae.png" tvg-group="CIENCIA Y CULTURA", A&E OP2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/ae2.json
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"E0-FEsdgUODVitWHiX6Xhw","k":"Qw4l82G4QU62OYgvnSZzSA"}]}
 https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cTzSjgb/ae.png" tvg-group="CIENCIA Y CULTURA", A&E OP2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nowtv.express.com.ar
+https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cTzSjgb/ae.png" tvg-group="CIENCIA Y CULTURA", A&E OP2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key="https://nowtv.express.com.ar/"
+https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/A
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3zKJTqt/syfy.jpg" tvg-group="CINE Y SERIES", SYFY4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
