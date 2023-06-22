@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3zKJTqt/syfy.jpg" tvg-group="CINE Y SERIES", SYFY1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "mx5B6KVaGC9pAAvckwTjzA","kid": "P5Cq/Qq4XG2S6TEU4niRew"}],"type": "temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 
@@ -31,7 +31,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3zKJTqt/syfy.jpg" tvg-group="CINE Y SERIES", SYFY1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aHR0cHM6Ly9kdHZvdHQtY2JjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyMTEvbWFuaWZlc3QubXBk&key=M2Y5MGFhZmQwYWI4NWM2ZDkyZTkzMTE0ZTI3ODkxN2I=&key2=OWIxZTQxZThhNTVhMTgyZjY5MDAwYmRjOTMwNGUzY2M
 "}
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
