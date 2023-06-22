@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml"
-tvg-shift=0 catchup="shift" catchup-days=6 
+
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/rRzhUCm.png", DNews
 #KODIPROP:inputstreamaddon=inputstream.adaptive
