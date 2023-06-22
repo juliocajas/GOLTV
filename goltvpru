@@ -47,7 +47,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"w5FQuiaYaoowvYjJYO4KmA","kid":"5W18Htc6AEw+vlaY9sb2sQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mx5B6KVaGC9pAAvckwTjzA","kid":"P5Cq/Qq4XG2S6TEU4niRew"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
@@ -55,7 +55,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"w5FQuiaYaoowvYjJYO4KmA","kid":"5W18Htc6AEw+vlaY9sb2sQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mx5B6KVaGC9pAAvckwTjzA","kid":"P5Cq/Qq4XG2S6TEU4niRew"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
