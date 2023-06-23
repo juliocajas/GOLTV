@@ -9,6 +9,8 @@ https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://nowtv.express.com.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"morR3c_i0gxXhR-hIuAeOQ","kid":"8ac_DN6lTXCcdNsy0qBiKQ"}]}
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" tvg-group="CINE Y SERIES", STUDIO UNIVERSAL
 https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
@@ -16,8 +18,9 @@ https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/S
 #EXTVLCOPT:http-referrer=https://nowtv.express.com.ar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"morR3c_i0gxXhR-hIuAeOQ","kid":"8ac_DN6lTXCcdNsy0qBiKQ"}]}
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" tvg-group="CINE Y SERIES", STUDIO UNIVERSAL OP1
 https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 
 
