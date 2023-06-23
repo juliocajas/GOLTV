@@ -5,13 +5,6 @@
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mx5B6KVaGC9pAAvckwTjzA","kid":"P5Cq/Qq4XG2S6TEU4niRew"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"morR3c_i0gxXhR-hIuAeOQ","kid":"8ac_DN6lTXCcdNsy0qBiKQ"}]}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" tvg-group="CINE Y SERIES", STUDIO UNIVERSA 1
-https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
@@ -33,7 +26,7 @@ https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIs
 #EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TE8ChmR5Y67AXBXfG6USJA","kid":"Y-aw22ZDRVaiPIVb1bbn0g"}]}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" tvg-group="DEPORTES", TYC SPORTS OP2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" tvg-group="DEPORTES", TYC SPORTS 
 https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -41,7 +34,7 @@ https://anbalancer.express.com.ar/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd|Use
 #EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7UNH9JX5stg61Ta1tebIhQ","kid":"r3fvc7qjSfuwQWZiBBirIQ"}]}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YkRGmdb/space.png" tvg-group="CINE Y SERIES", SPACE OP2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YkRGmdb/space.png" tvg-group="CINE Y SERIES", SPACE 
 https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -49,7 +42,7 @@ https://anbalancer.express.com.ar/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
 #EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"egfz401vp2mTkMaHuB5VNg","kid":"2MBRGPBjT6a3qMaZAhELvA"}]}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL OP2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL 
 https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/Universal_Channel_HD.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -57,7 +50,7 @@ https://anbalancer.express.com.ar/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/
 #EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZsxwcPS9Tq28Q5vX7i-QPg","kid":"yws5Qc3GRYCv9YvrQzAXlQ"}]}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" tvg-group="CINE Y SERIES", TELEMUNDO OP2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" tvg-group="CINE Y SERIES", TELEMUNDO 
 https://anbalancer.express.com.ar/live/c1eds/Telemundo_HD/SA_DASH_cipix/Telemundo_HD.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -81,7 +74,7 @@ https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd|U
 #EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9EZ3Cx0QEyHyFJeG6C1Rfw","kid":"uoOI7Af7SBq29AcNBH0hPA"}]}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX OP2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX 
 https://anbalancer.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -89,7 +82,7 @@ https://anbalancer.express.com.ar/live/c1eds/FX/SA_DASH_cipix/FX.mpd|User-Agent=
 #EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yuv9HgePExX55m_5hUTBJQ","kid":"kP0CJSU6QsieNtS8WgB0mA"}]}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" tvg-group="DEPORTES", FOX SPORTS OP2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KbL5nCR/foxsportsar.png" tvg-group="DEPORTES", FOX SPORTS 
 https://anbalancer.express.com.ar/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -123,3 +116,19 @@ https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZfRMlZEhsmw8n3nqugp4Pw","kid":"x9wnLot3QrGYyI_otW39_A"}]}
 #EXTINF:-1 tvg-logo="https://i.ibb.co/By7GRw7/axn.png" tvg-group="CINE Y SERIES", AXN 
 https://anbalancer.express.com.ar/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RbRQi78MAr9SMQQVfiztgQ","kid":"R3KW4op/SSaKvEVoW4tpow"}]}
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cTC9Jws/Logo-DHE.png" tvg-group="CINE Y SERIES", DHE
+https://anbalancer.express.com.ar/live/c1eds/DHE_HD/SA_DASH_cipix/DHE_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GU1KWZniFiJ8NkLsyAQ4Qg","kid":"e8Ow1qNqTcmqi17hVMGITg"}]}
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW18VVZ/tnt.png" tvg-group="CINE Y SERIES", TNT 
+https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
