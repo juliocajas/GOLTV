@@ -24,8 +24,8 @@ https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/S
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="keys":[{"kty":"oct","kid":"1OsF8mC8Xc5l_w-HVA-wKQ","kid":"43K82z9RTqqSdGwMCgR6ew"}]}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY SCIENCE OP2
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1OsF8mC8Xc5l_w-HVA-wKQ","kid":"43K82z9RTqqSdGwMCgR6ew"}]}
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY SCIENCE 
 https://anbalancer.express.com.ar/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -72,7 +72,7 @@ https://anbalancer.express.com.ar/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd|User-Agen
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"_7jrzkPlYbBmKUz3MyUUhA","kid":"tVvvajktTbaScaSy-hA96Q"}]}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"_7jrzkPlYbBmKUz3MyUUhA","kid":"tVvvajktTbaScaSy-hA96Q"}]}
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" tvg-group="CINE Y SERIES", CINEMAX 
 https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
