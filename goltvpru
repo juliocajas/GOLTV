@@ -135,12 +135,12 @@ https://anbalancer.express.com.ar/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd|Use
 
 
 #KODIPROP:mimetype=application/x-mpegURL
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" tvg-group="CINE Y SERIES", A3 SERIES2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" tvg-group="CINE Y SERIES", A3 SERIES
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}]}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BilcjWAJpH+Mg+XA0/b90A","kid":"Sdqzv7wlXaGyCFLRcrsvUw"}]}}
 https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -148,7 +148,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1015/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"w5FQuiaYaoowvYjJYO4KmA","kid":"5W18Htc6AEw+vlaY9sb2sQ"}]}}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"w5FQuiaYaoowvYjJYO4KmA","kid":"5W18Htc6AEw+vlaY9sb2sQ"}]}}}
 https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -156,7 +156,7 @@ https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd|User-Agent="M
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"04W4et5EQdIMXK7iqOQdpw","kid":"PnsoHBHw/xw/ftLQLQh5wQ"}]}}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"04W4et5EQdIMXK7iqOQdpw","kid":"PnsoHBHw/xw/ftLQLQh5wQ"}]}}}
 https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -164,7 +164,7 @@ https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"hwYUadrZZ1cHhwSgPuPGfw","kid":"bYQiIvFxWlmtJGI8IXRTRA"}]}}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hwYUadrZZ1cHhwSgPuPGfw","kid":"bYQiIvFxWlmtJGI8IXRTRA"}]}}}
 https://dtvott-cbc.akamaized.net/dash_live_1027/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/bobesponja.png" tvg-group="24/7", Bob Esponja 24/7
@@ -176,7 +176,7 @@ https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=518|User-Agent="Mozil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"XnP7CDWNtjTfuRnYU87Ebw","kid":"WQ6raDPUNf-UzJpa-TpDGQ"}]}}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XnP7CDWNtjTfuRnYU87Ebw","kid":"WQ6raDPUNf-UzJpa-TpDGQ"}]}}}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1035|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -184,7 +184,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1035|User-Agent="Moz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"Ok1h5oorxLGHm1JKKZTWVA","kid":"eM55icAMUHmcp9_ikbq9Wg"}]}}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ok1h5oorxLGHm1JKKZTWVA","kid":"eM55icAMUHmcp9_ikbq9Wg"}]}}}
 https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -192,7 +192,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1036/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"Cp2w4I0Lc35qZOyu1SXUyw","kid":"cKOrHqPEXdVw2ipmCuXu2g"}]}}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Cp2w4I0Lc35qZOyu1SXUyw","kid":"cKOrHqPEXdVw2ipmCuXu2g"}]}}}
 https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -200,7 +200,7 @@ https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd|User-Agent="Mo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"0XkTZxpxgh7X5MSTfNL7pQ","kid":"IIAS0VS/USjcBEM8IuAGmA"}]}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0XkTZxpxgh7X5MSTfNL7pQ","kid":"IIAS0VS/USjcBEM8IuAGmA"}]}}
 https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -208,7 +208,7 @@ https://live2-ott.izzigo.tv/out/u/dash/DE-PELICULA-SD/default.mpd|User-Agent="Mo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"I1iYzbELDNujXqLOlPux+w","kid":"qwIKFxDWMBaN4haYN1pDnA"}]}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"I1iYzbELDNujXqLOlPux+w","kid":"qwIKFxDWMBaN4haYN1pDnA"}]}}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1063|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -216,7 +216,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1063|User-Agent="Moz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"ywu6RSL/zZCotRVBoPz64A","kid":"uw7Kpq5iM2GXxk1BKcagnQ"}]}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ywu6RSL/zZCotRVBoPz64A","kid":"uw7Kpq5iM2GXxk1BKcagnQ"}]}}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -224,7 +224,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057|User-Agent="Moz
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"8NIlT4W3Nxf0ws2BvacYiQ","kid":"NrLGt3NqWQG_QIkWpFSr-Q"}]}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8NIlT4W3Nxf0ws2BvacYiQ","kid":"NrLGt3NqWQG_QIkWpFSr-Q"}]}}
 https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -232,7 +232,7 @@ https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"5Pq_OdI81lV_pxtudU7x5w","kid":"8Zw6jGONUsKrd7lWa8splg"}]}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5Pq_OdI81lV_pxtudU7x5w","kid":"8Zw6jGONUsKrd7lWa8splg"}]}}
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
@@ -661,7 +661,7 @@ https://channels1.futbolenvivo.xyz/streams3/master.m3u8?id=292|User-Agent="Mozil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"oct","k":"mx5B6KVaGC9pAAvckwTjzA","k":"P5Cq/Qq4XG2S6TEU4niRew"}]}}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mx5B6KVaGC9pAAvckwTjzA","k":"P5Cq/Qq4XG2S6TEU4niRew"}]}}
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #KODIPROP:mimetype=application/x-mpegURL
