@@ -388,14 +388,6 @@ https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd|User-Agent="Mozilla
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1117|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRnM0RH/foxsports2cl.png" tvg-group="DEPORTES", FOX SPORTS 2 CL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6MVaVb+X450iOAVs82hXOw","kid":"CMPmVA3PVrqZwShgZfwNFA"}]
-https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-
-#KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NFP9rk9/foxsports3cl.png" tvg-group="DEPORTES", FOX SPORTS 3 CL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -420,14 +412,6 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Mgduj0idcq4IR-syVs6tHQ","kid":"uUr354epW_C32Dj7NPJ4Qg"}]
-https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
-
-#KODIPROP:mimetype=application/x-mpegURL
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gF6G83b/tntsports2cl.png" tvg-group="DEPORTES", TNT SPORTS 2 CL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Mgduj0idcq4IR+syVs6tHQ","kid":"uUr354epW/C32Dj7NPJ4Qg"}]
 https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 
@@ -516,7 +500,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd|U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":""p+vgzB2mncwwDxn3tKYoxw","kid":"jMuK9Kh4Vw2IeJIbhKvuGQ"}]}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p+vgzB2mncwwDxn3tKYoxw","kid":"jMuK9Kh4Vw2IeJIbhKvuGQ"}]}
 https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #KODIPROP:mimetype=application/x-mpegURL
