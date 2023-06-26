@@ -25,6 +25,7 @@ https://1125-vos.dtvott.com/DASH/manifest.mpd
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=591cdbc97034330b849614a6efbfdfd4:d664407707d260f93908121d84df4eba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" group-title="DEPORTES", ESPN 🇲🇽 (DTV) 
@@ -50,6 +51,7 @@ https://1250-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qwIKFxDWMBaN4haYN1pDnA","k":"I1iYzbELDNujXqLOlPux-w"}]}
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://1063-vos.dtvott.com
+
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="HD" ,DIRECTV SPORTS 2
