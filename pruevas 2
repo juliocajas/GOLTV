@@ -4,7 +4,7 @@
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer="https://www.vtvcable.com/"
-#EXTVLCOPT:http-referrer="https://1134-vos.dtvott"
+#EXTVLCOPT:http-referrer="https://1214-vos.dtvott.com/"
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GOL TV EC
 https://1134-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
 
