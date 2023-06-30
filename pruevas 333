@@ -8,3 +8,9 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GolTV USA
 #KODIPROP:inputstream.adaptive.license_key={"4d45b79d4487343589058ab49ddf8cf0":"aa7f95f71a3cfe40aa59904f9285af72"}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1240
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GolTV USA
+#KODIPROP:inputstream.adaptive.license_key={"76be81041e7133a38457f097d2b0041c":"8ced846c9effd56d7e2a9276224bb3c5"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1118
