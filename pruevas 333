@@ -1,4 +1,55 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",vivo
-#KODIPROP:inputstream.adaptive.license_key={"06997340922035bf8bbdb05ccad59aac":"e54951d9df22a73a8ab2d951c67ca260"}
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",vivo2
+#KODIPROP:inputstream.adaptive.license_key={"06997340922035bf8bbdb05ccad59aac";"e54951d9df22a73a8ab2d951c67ca260"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",vivo3
+#KODIPROP:inputstream.adaptive.license_key={"06997340922035bf8bbdb05ccad59aac"."e54951d9df22a73a8ab2d951c67ca260"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",vivo4
+#KODIPROP:inputstream.adaptive.license_key={"06997340922035bf8bbdb05ccad59aac";"e54951d9df22a73a8ab2d951c67ca260"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",vivo5
+#KODIPROP:inputstream.adaptive.license_key={"06997340922035bf8bbdb05ccad59aac"."e54951d9df22a73a8ab2d951c67ca260"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",vivo6
+#KODIPROP:inputstream.adaptive.license_key="06997340922035bf8bbdb05ccad59aac";"e54951d9df22a73a8ab2d951c67ca260"
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",vivo7
+#KODIPROP:inputstream.adaptive.license_key="06997340922035bf8bbdb05ccad59aac"."e54951d9df22a73a8ab2d951c67ca260"
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",vivo8
+#KODIPROP:inputstream.adaptive.license_key=06997340922035bf8bbdb05ccad59aac";"e54951d9df22a73a8ab2d951c67ca260"
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",vivo9
+#KODIPROP:inputstream.adaptive.license_key=06997340922035bf8bbdb05ccad59aac","e54951d9df22a73a8ab2d951c67ca260
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",vivo99
+#KODIPROP:inputstream.adaptive.license_key={"06997340922035bf8bbdb05ccad59aac"."e54951d9df22a73a8ab2d951c67ca260"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",vivo0
+#KODIPROP:inputstream.adaptive.license_key="06997340922035bf8bbdb05ccad59aac","e54951d9df22a73a8ab2d951c67ca260"
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
