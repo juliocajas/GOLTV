@@ -1,4 +1,10 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/622/954/png-transparent-rcn-television-colombia-television-caracol-television-venezolana-de-television-soap-design-television-angle-text-thumbnail.png" group-title="ECUADOR",RCN COLOMBIA
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/622/954/png-transparent-rcn-television-colombia-television-caracol-television-venezolana-de-television-soap-design-television-angle-text-thumbnail.png" group-title="ECUADOR",vivo
 #KODIPROP:inputstream.adaptive.license_key={"06997340922035bf8bbdb05ccad59aac":"e54951d9df22a73a8ab2d951c67ca260"}
 https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1245
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/622/954/png-transparent-rcn-television-colombia-television-caracol-television-venezolana-de-television-soap-design-television-angle-text-thumbnail.png" group-title="ECUADOR",vivo
+#KODIPROP:inputstream.adaptive.license_key={"4d45b79d4487343589058ab49ddf8cf0":"aa7f95f71a3cfe40aa59904f9285af72"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1240
