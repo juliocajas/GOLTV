@@ -1,17 +1,17 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zVnrcRyKxO4L8MZvPpZ6nA","kid":"CyMwJDj_Mk2rLurKXqn1VA"}]}
-https://1246-vos.dtvott.com/DASH/manifest.mpd
+https://1246-vos.dtvott.com/DASH/manifest.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GolTV USA
 #KODIPROP:inputstream.adaptive.license_key={"3303b4c6982f381ea9e309009fbb3f27":"a7fd49808f890c2500bf2180aaf42307"}
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GolTV
 #KODIPROP:inputstream.adaptive.license_key={"3303b4c6982f381ea9e309009fbb3f27":"a7fd49808f890c2500bf2180aaf42307
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5hKOz3c.png" group-title="NOTICIAS", Panamericana Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -39,13 +39,27 @@ https://1173-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #EXTVLCOPT:http-referrer=https://daddylivehd.sx/embed/stream-388
 #EXTVLCOPT:http-host=https://ntuplay.xyz/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://ddy1.cdnhks.lol/ddy1/premium388/tracks-v1a1/mono.m3u8
+https://ddy1.cdnhks.lol/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
 
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
 #EXTVLCOPT:http-referrer=https://pelotalibre.com/
 #EXTVLCOPT:http-host=https://ntuplay.xyz/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://ddy1.cdnhks.lol/ddy1/premium388/tracks-v1a1/mono.m3u8
+https://ddy1.cdnhks.lol/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
+
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
+#EXTVLCOPT:http-referrer=https://daddylivehd.sx/embed/stream-388
+#EXTVLCOPT:http-host=https://ntuplay.xyz/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://ddy1.cdnhks.lol/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
+
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
+#EXTVLCOPT:http-referrer=https://pelotalibre.com/
+#EXTVLCOPT:http-host=https://ntuplay.xyz/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://ddy1.cdnhks.lol/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
+
+
 
 #KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="ENTRETENIMIENTO",hbo extrem
