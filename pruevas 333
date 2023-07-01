@@ -1,18 +1,44 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS (SOLO CHROMECAST)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zVnrcRyKxO4L8MZvPpZ6nA","kid":"CyMwJDj_Mk2rLurKXqn1VA"}]}
+https://1246-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol Tv
-http://ss8.mxl-iptv.services/cdn/ss3/hls_3/100937/mxl_1201550007_168823085501438952_2489.ts|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR",GolTV USA
+#KODIPROP:inputstream.adaptive.license_key={"3303b4c6982f381ea9e309009fbb3f27":"a7fd49808f890c2500bf2180aaf42307"}
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134
 
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Gol 
-http://ss8.mxl-iptv.services/cdn/ss3/hls_3/100937/mxl_1201550007_168823085501438952_2489.ts|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Golc 
-http://ss8.mxl-iptv.services/cdn/ss3/hls/3|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5hKOz3c.png" group-title="NOTICIAS", Panamericana Peru
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=330624690de13946beb88e41a4ccd15f:9320ddbd6178006cb858d7c2c39639fb
+https://1180-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Go
-https://hls.mxl-apps.services/iptv_data/app/script/tv/1f9eb5c575af19b9d4f9b97a46140b014c6b5eac/bd867da545a81643caa6bbb26e3d0c62702ec92e/100937_12.m3u8|user-agent="MXPlayer/1.10 (Linux; Android)"
 
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Goxx
-#KODIPROP:mimetype=application/x-mpegURL
+#EXTINF:-1 group-title="NOTICIAS" tvg-id="mega.cl", tvg-logo="https://i.imgur.com/qLzjO1U.png", Mega Chile
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8f63dac3923823a6fdfac3ce7f2a21:45be5c78b14caf1fa16535950d765b76
+https://1162-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 group-title="INFANTILES" tvg-id="309dtv.cl", tvg-logo="https://i.imgur.com/ByQio1V.png", Nick Jr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4b1b9c4f55d396694e289660fd0c84b:2a9eb403e30a82516a14e1f3f8142c77
+https://1173-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
+#EXTVLCOPT:http-referrer=https://daddylivehd.sx/embed/stream-388
+#EXTVLCOPT:http-host=https://ntuplay.xyz/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer="http://ss8.mxl-iptv.services/"
-https://hls.mxl-apps.services/iptv_data/app/script/tv/100937_12.m3u8|user-agent="MXPlayer/1.10 (Linux; Android)"
+https://ddy1.cdnhks.lol/ddy1/premium388/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
+#EXTVLCOPT:http-referrer=https://pelotalibre.com/
+#EXTVLCOPT:http-host=https://ntuplay.xyz/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://ddy1.cdnhks.lol/ddy1/premium388/tracks-v1a1/mono.m3u8
