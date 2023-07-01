@@ -8,8 +8,6 @@ http://ss8.mxl-iptv.services/cdn/ss3/hls_3/100937/mxl_1201550007_168823085501438
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Golc 
 http://ss8.mxl-iptv.services/cdn/ss3/hls/3|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="ECUADOR", Go
+https://hls.mxl-apps.services/iptv_data/app/script/tv/1f9eb5c575af19b9d4f9b97a46140b014c6b5eac/bd867da545a81643caa6bbb26e3d0c62702ec92e/100937_12.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
