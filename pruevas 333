@@ -1,3 +1,18 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ah
+#KODIPROP:inputstreamaddon,inputstream.adaptive"."\n";
+#KODIPROP:inputstream.adaptive.manifest_type=mpd"."\n";
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha"."\n";   
+#KODIPROP:inputstream.adaptive.server_certificate=rYCCAMSEHL+DSD08domI9jFJXcARnkYtpOAqgUijgIwggEKAoIBAQDEG8PxTwiALyDHGvKZjJxo7G6+XKHnjV4p2F+TvUng79fyRvk8rpEjl4k+V4V4YIfEIh2ZirIE3J8kCsNWvkdX3ZAsUVrEBf2mzpGTfsMGWsLbVPCMutqR/eLGpI2mAwkdyTEhoGsvDXv0ty5Q+z1YccFHyfNPVUfkEsYT8kyR/9f+gNvxWSNQcKfbM3DBhZNkvH3msCZnvGIZl/HvLU8hfe8ycMRExXKwVlpaCbe/0wMEanq38ENMhKJSrtWGQbFFMSMOyEWQwqhP0yY+zl4wQ+AC6VA5rVlegSa2u8+yGKTZwlLScQ/vd/y9p8vQEBDMAC5RP9hH8NfH6RaxovozAgMBAAE6CWRsYXR2Lm5ldBKAA2S7G3l4ei75sFFlhp5nFe8Vj/F8y4/0WNsliYzeEwFkZnrQS2ikJcgV7mPAre3i+TT07opXOJOSjkBk18G2/YOwK3DSXK2EpGCBEWOnncpPI2aHoy0zGvH8tdbGaMplYivD3agR14LVsQUx0YI3hO09OrUMscqgUonjEn3/TTgooLRRGtshRBqIcp0Ob/Cv3Dc6ech61j1/lK+8Lnt7U5Rzy0lCtbEqLXWL2QdoEMoROJ70Vkvv3SshpEtzn65yA87o2mkSRK1yZG7xk1IWQ+VOpXIgHrR8icsVaSvlK85L984Ziv8xFsp/cCqTMxBZplFviYv4Tkzv2H09qfg3OmeDfUWxg+u5YKJik9bu2iWFyBju/AQRfkUqvWaknV0sNm6keZmgVUe25k7H22hID4LuLxTTJcGPIJ1ZJayXYa/YE9ZnryqTgUyjawCIXS0+X4OaLs6FA2x0eXWQL6rjdutfts3m2vHySEn27730deLw86AxB78jcir7jhXNXvGzCQ=="."\n";
+#KODIPROP:inputstream.adaptive.license_key=https://vsd151.mycdn.me/dash/stream_3849692514887/stream.manifest/sig/oSCwU8h1DLk/expires/1688310544370/srcIp/190.171.83.100/urls/185.226.52.65/clientType/0/srcAg/GECKO/mid/6695203184199/frag-high-8368924.dash|Content-Type=|{"token":"edef8ba979d64acea3c827dcd51d21ed","device_id":","widevineBody":"b{SSM}"}|" ."\n";
+https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/1688228017871/srcIp/190.171.83.100/urls/45.136.20.58/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", aw
+#KODIPROP:inputstreamaddon,inputstream.adaptive"."\n";
+#KODIPROP:inputstream.adaptive.manifest_type=mpd"."\n";
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha"."\n";   
+#KODIPROP:inputstream.adaptive.server_certificate="https://ok.ru/videoembed/6695203184199/"
+#KODIPROP:inputstream.adaptive.license_key=https://vsd151.mycdn.me/dash/stream_3849692514887/stream.manifest/sig/oSCwU8h1DLk/expires/1688310544370/srcIp/190.171.83.100/urls/185.226.52.65/clientType/0/srcAg/GECKO/mid/6695203184199/frag-high-8368924.dash|Content-Type=|{"token":"edef8ba979d64acea3c827dcd51d21ed","device_id":","widevineBody":"b{SSM}"}|" ."\n";
+https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/1688228017871/srcIp/190.171.83.100/urls/45.136.20.58/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -41,19 +56,19 @@ https://vsd151.mycdn.me/dash/stream_3849692514887/stream.manifest/sig/oSCwU8h1DL
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extr
-http://3.ultimate2019.com/stream/hls/493|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+https://3.ultimate2019.com/stream/hls/493|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extre
-http://3.ultimate2019.com/stream/hls/14|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
+https://3.ultimate2019.com/stream/hls/14|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extrem
-http://3.ultimate2019.com/stream/hls/732|user-agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
+https://3.ultimate2019.com/stream/hls/732|user-agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extreme
-http://3.ultimate2019.com/stream/hls/814|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
+https://3.ultimate2019.com/stream/hls/814|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extremer
-http://3.ultimate2019.com/stream/hls/971|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
+https://3.ultimate2019.com/stream/hls/971|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
 #KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="ENTRETENIMIENTO",hbo extremAA
