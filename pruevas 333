@@ -1,6 +1,5 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ah
 #KODIPROP:inputstreamaddon,inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.server_certificate="https://ok.ru/videoembed/6695203184199/"
 #KODIPROP:inputstream.adaptive.license_key="https://ok.ru/videoembed/6695203184199/"|Content-Type=|{"token":"edef8ba979d64acea3c827dcd51d21ed","device_id":","widevineBody":"b{SSM}"}|
@@ -8,7 +7,6 @@ https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/168822801
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", aw
 #KODIPROP:inputstreamaddon,inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
 #KODIPROP:inputstream.adaptive.server_certificate="https://ok.ru/videoembed/6695203184199/"
 #KODIPROP:inputstream.adaptive.license_key=https://ok.ru/videoembed/6695203184199|Content-Type=|{"token":"edef8ba979d64acea3c827dcd51d21ed","device_id":","widevineBody":"b{SSM}"}|
