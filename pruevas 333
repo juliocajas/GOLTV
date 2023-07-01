@@ -11,7 +11,7 @@ https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/168822801
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
 #KODIPROP:inputstream.adaptive.server_certificate="https://ok.ru/videoembed/6695203184199/"
-#KODIPROP:inputstream.adaptive.license_key=https://ok.ru/videoembed/6695203184199|Content-Type=|{"token":"edef8ba979d64acea3c827dcd51d21ed","device_id":","widevineBody":"b{SSM}"}|" ."\n";
+#KODIPROP:inputstream.adaptive.license_key=https://ok.ru/videoembed/6695203184199|Content-Type=|{"token":"edef8ba979d64acea3c827dcd51d21ed","device_id":","widevineBody":"b{SSM}"}|
 https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/1688228017871/srcIp/190.171.83.100/urls/45.136.20.58/clientType/0/srcAg/CHROME_ANDROID/mid/6695203184199/video.m3u8|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
 #KODIPROP:mimetype=application/x-mpegURL
