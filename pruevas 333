@@ -59,7 +59,17 @@ https://ddy1.cdnhks.lol:443/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent=Dal
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://ddy1.cdnhks.lol:443/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
 
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",2
+#EXTVLCOPT:http-referrer=https://pelotalibre.com/
+#EXTVLCOPT:http-host=https://ntuplay.xyz/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://ddy1.cdnhks.lol:443/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
 
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",1
+#EXTVLCOPT:http-referrer=https://pelotalibre.com/
+#EXTVLCOPT:http-host=https://ntuplay.xyz/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://ddy1.cdnhks.lol:443/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0"
 
 #KODIPROP:mimetype=application/x-mpegURL
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="ENTRETENIMIENTO",hbo extrem
