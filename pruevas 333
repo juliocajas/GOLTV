@@ -1,43 +1,14 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extrem
-#EXT-X-VERSION:
-#EXT-X-TARGETDURATION:16
-#EXT-X-MEDIA-SEQUENCE:299117 
-#EXTINF:1.125000, 
-#EXT-X-PROGRAM-DATE-TIME:2023-07-01T03:30:40.255-0700 http://ts4.tvcluboficial.com/ts/GolTVHD_LD/_299117.ts?ul 
-#EXTINF:1.000000, 
-#EXT-X-PROGRAM-DATE-TIME:2023-07-01T03:30:41.380-0700 http://ts4.tvcluboficial.com/ts/GolTVHD_LD/_299118.ts?ul 
-#EXTINF:2.812500,#EXT-X-PROGRAM-DATE-TIME:2023-07-01T03:30:42.380-0700 http://ts4.tvcluboficial.com/ts/GolTVHD_LD/_299119.ts?ul 
-#EXTINF:15.625000,#EXT-X-PROGRAM-DATE-TIME:2023-07-01T03:30:45.193-0700 http://ts4.tvcluboficial.com/ts/GolTVHD_LD/_299120.ts?ul 
-#EXTINF:5.187500,#EXT-X-PROGRAM-DATE-TIME:2023-07-01T03:31:00.818-0700 http://ts4.tvcluboficial.com/ts/GolTVHD_LD/_299121.ts?ul 
-#EXTINF:13.875000,#EXT-X-PROGRAM-DATE-TIME:2023-07-01T03:31:06.005-0700 http://ts4.tvcluboficial.com/ts/GolTVHD_LD/_299122.ts?ul 
-#EXTINF:3.750000,#EXT-X-PROGRAM-DATE-TIME:2023-07-01T03:31:19.880-0700 http://ts4.tvcluboficial.com/ts/GolTVHD_LD/_299123.ts?ul 
-#EXTINF:15.625000,#EXT-X-PROGRAM-DATE-TIME:2023-07-01T03:31:23.630-0700 http://ts4.tvcluboficial.com/ts/GolTVHD_LD/_299124.ts?ul 
-#EXTINF:15.625000,#EXT-X-PROGRAM-DATE-TIME:2023-07-01T03:31:39.255-0700 http://ts4.tvcluboficial.com/ts/GolTVHD_LD/_299125.ts?ul 
-#EXTINF:15.625000,#EXT-X-PROGRAM-DATE-TIME:2023-07-01T03:31:54.880-0700 http://ts4.tvcluboficial.com/ts/GolTVHD_LD/_299126.ts?ul
 
-#EXT-X-VERSION:3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extremer
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:10.000000,
-http://ts3.tvcluboficial.com/videos/ultimate/playlist0.ts
-#EXTINF:10.000000,
-http://ts3.tvcluboficial.com/videos/ultimate/playlist1.ts
-#EXTINF:6.360000,
-http://ts3.tvcluboficial.com/videos/ultimate/playlist2.ts
-#EXT-X-ENDLIS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extremerwlav
-http://3.ultimate2019.com/stream/hls/514|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
+http://3.ultimate2019.com/stream/hls/493|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extremerw
-http://3.ultimate2019.com/stream/hls/514|user-agent=Lavf/57.71.001
+http://3.ultimate2019.com/stream/hls/14|user-agent=Lavf/57.71.001
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extremerw
-http://3.ultimate2019.com/stream/hls/514|user-agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
+http://3.ultimate2019.com/stream/hls/732|user-agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extremerw
-http://3.ultimate2019.com/stream/hls/514|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
+http://3.ultimate2019.com/stream/hls/814|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
