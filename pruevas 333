@@ -15,7 +15,6 @@ https://vsd237.mycdn.me/hls/3849692514887.m3u8/sig/8qJzCuoJjb0/expires/168822801
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extrem
 https://vsd151.mycdn.me/dash/stream_3849692514887/stream.manifest/sig/oSCwU8h1DLk/expires/1688310544370/srcIp/190.171.83.100/urls/185.226.52.65/clientType/0/srcAg/GECKO/mid/6695203184199/frag-high-8368924.dash|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0"
 
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0
 
 #KODIPROP:mimetype=application/x-mpegURL
 #EXTVLCOPT:http-origin="Origin/"ok.ru/"
