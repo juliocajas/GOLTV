@@ -4,11 +4,13 @@
 http://3.ultimate2019.com/stream/hls/493|User-Agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.100 Safari/537.36 CrKey/1.40.156414"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extremerw
-http://3.ultimate2019.com/stream/hls/14|user-agent=Lavf/57.71.001
+http://3.ultimate2019.com/stream/hls/14|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extremerw
-http://3.ultimate2019.com/stream/hls/732|user-agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
+http://3.ultimate2019.com/stream/hls/732|user-agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extremerw
 http://3.ultimate2019.com/stream/hls/814|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" group-title="CINE Y SERIES", ahbo extremerw
+http://3.ultimate2019.com/stream/hls/917|user-agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
