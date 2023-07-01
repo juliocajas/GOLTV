@@ -16,7 +16,7 @@ https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1134|User-Agent=Dalv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5hKOz3c.png" group-title="NOTICIAS", Panamericana Peru
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key={"330624690de13946beb88e41a4ccd15f":"9320ddbd6178006cb858d7c2c39639fb"}
 https://1180-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
@@ -24,51 +24,45 @@ https://1180-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows N
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="mega.cl", tvg-logo="https://i.imgur.com/qLzjO1U.png", Mega Chile
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6a8f63dac3923823a6fdfac3ce7f2a21":"45be5c78b14caf1fa16535950d765b76"}
 https://1162-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 group-title="INFANTILES" tvg-id="309dtv.cl", tvg-logo="https://i.imgur.com/ByQio1V.png", Nick Jr
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d4b1b9c4f55d396694e289660fd0c84b":"2a9eb403e30a82516a14e1f3f8142c77"}
 https://1173-vos.dtvott.com/DASH/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
 #EXTVLCOPT:http-referrer=https://daddylivehd.sx/embed/stream-388
 #EXTVLCOPT:http-host=https://ntuplay.xyz/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://ddy1.cdnhks.lol/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
 
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
 #EXTVLCOPT:http-referrer=https://pelotalibre.com/
 #EXTVLCOPT:http-host=https://ntuplay.xyz/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://ddy1.cdnhks.lol/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
 
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
 #EXTVLCOPT:http-referrer=https://daddylivehd.sx/embed/stream-388
 #EXTVLCOPT:http-host=https://ntuplay.xyz/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://ddy1.cdnhks.lol:443/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
 
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
 #EXTVLCOPT:http-referrer=https://pelotalibre.com/
 #EXTVLCOPT:http-host=https://ntuplay.xyz/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://ddy1.cdnhks.lol:443/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)
 
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",2
 #EXTVLCOPT:http-referrer=https://pelotalibre.com/
 #EXTVLCOPT:http-host=https://ntuplay.xyz/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://ddy1.cdnhks.lol:443/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
 
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",1
 #EXTVLCOPT:http-referrer=https://pelotalibre.com/
 #EXTVLCOPT:http-host=https://ntuplay.xyz/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://ddy1.cdnhks.lol:443/ddy1/premium388/tracks-v1a1/mono.m3u8|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0"
 
 #KODIPROP:mimetype=application/x-mpegURL
