@@ -23,6 +23,23 @@ https://ddy1.cdnhks.lol:443/ddy1/premium388/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
 #EXTVLCOPT:http-referrer="https://ntuplay.xyz/"
 #EXTVLCOPT:http-referrer="https://ddy1.cdnhks"
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey={"Efg1fB5O-Ajo-jdrJY7BmHrd_FXNM31k77ccnkkz_-F1GfZGxV0I-94VxSEp6-KjNaslBHV3z4_hrjU"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://ddy1.cdnhks.lol:443/ddy1/premium388/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
+#EXTVLCOPT:http-referrer="https://ntuplay.xyz/"
+#EXTVLCOPT:http-referrer="https://ddy1.cdnhks"
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey=Efg1fB5O-Ajo-jdrJY7BmHrd_FXNM31k77ccnkkz_-F1GfZGxV0I-94VxSEp6-KjNaslBHV3z4_hrjU"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://ddy1.cdnhks.lol:443/ddy1/premium388/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="Ecuador",Oromar
+#EXTVLCOPT:http-referrer="https://ntuplay.xyz/"
+#EXTVLCOPT:http-referrer="https://ddy1.cdnhks"
+#KODIPROP:inputstream.adaptive.license_type={"clearkey=Efg1fB5O-Ajo-jdrJY7BmHrd_FXNM31k77ccnkkz_-F1GfZGxV0I-94VxSEp6-KjNaslBHV3z4_hrjU
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://ddy1.cdnhks.lol:443/ddy1/premium388/tracks-v1a1/mono.m3u8
 
